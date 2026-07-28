@@ -1,0 +1,903 @@
+{
+  "sourcePage": "https://www.xiaomiev.com/configurator/select?goodsId=900002858&itemId=500010402&ssuId=600024175&type=3d",
+  "generatedAt": "2026-07-28T18:38:15.454Z",
+  "copiedAssets": [
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/7c81f1e1351f6790.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/7c81f1e1351f6790.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/34c9aabd4daa55d0.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/34c9aabd4daa55d0.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/30e1f38961b0030c.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/30e1f38961b0030c.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/73c00cd95dc66651.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/73c00cd95dc66651.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/e8c3aead6140af8d.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/e8c3aead6140af8d.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/8e5c6d7e1ea1c930.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/8e5c6d7e1ea1c930.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/webpack-13f9130553f0f656.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/webpack-13f9130553f0f656.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/fd9d1056-027dfa06d4d1a067.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/fd9d1056-027dfa06d4d1a067.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/396464d2-e8a265d7f24c4c20.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/396464d2-e8a265d7f24c4c20.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/main-app-54afd934f89957cb.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/main-app-54afd934f89957cb.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/17e1cba1-fb802f880c73bc72.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/17e1cba1-fb802f880c73bc72.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/c15bf2b0-18553074cbb0ca9f.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/c15bf2b0-18553074cbb0ca9f.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6445-7d16c48fde1dfb29.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/6445-7d16c48fde1dfb29.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6751-f46fa041c4cc491d.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/6751-f46fa041c4cc491d.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/256-73048f20a3c58194.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/256-73048f20a3c58194.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/3696-5c2a1b65e535fcbb.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/3696-5c2a1b65e535fcbb.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4635-bfc79dbc1d5a3421.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/4635-bfc79dbc1d5a3421.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8344-82d581e90e0efcb4.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/8344-82d581e90e0efcb4.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/7312-b87de1ac65bba51e.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/7312-b87de1ac65bba51e.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8792-0f6e7268b85f6f1f.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/8792-0f6e7268b85f6f1f.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/2915-0377632918c52264.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/2915-0377632918c52264.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/359-195f39b9b25d3edf.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/359-195f39b9b25d3edf.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/7281-62b41a4a416f91d6.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/7281-62b41a4a416f91d6.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8274-20b95e5ac9be188f.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/8274-20b95e5ac9be188f.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8651-71f0d1b1f664b5e1.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/8651-71f0d1b1f664b5e1.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/131-88a8ead7b2a6a7e6.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/131-88a8ead7b2a6a7e6.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/configurator/select/page-d797b513a0b6e4c3.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/configurator/select/page-d797b513a0b6e4c3.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/9303-bd53327a620966f4.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/9303-bd53327a620966f4.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6277-2e764b7ccd391c0b.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/6277-2e764b7ccd391c0b.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4131-f2596ce2cc78a419.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/4131-f2596ce2cc78a419.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4573-e006a85d6f566347.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/4573-e006a85d6f566347.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/configurator/layout-b6f1dabdb60bb003.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/configurator/layout-b6f1dabdb60bb003.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/3060-bda38f55fc38231c.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/3060-bda38f55fc38231c.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/global-error-50aae02926e5d5b5.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/global-error-50aae02926e5d5b5.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/layout-46683009bb1e3c3c.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/layout-46683009bb1e3c3c.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/error-886d06598141a62c.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/error-886d06598141a62c.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/not-found-bdf805fc45d63fe8.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/not-found-bdf805fc45d63fe8.js"
+    },
+    {
+      "url": "https://ssl-cdn.static.browser.mi-img.com/mistat-data/onetrack/onetrack.js",
+      "localUrl": "/official-external/6e63618797042b3f-onetrack.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/script/globalthis.js",
+      "localUrl": "/activity-outer-assets/script/globalthis.js"
+    },
+    {
+      "url": "https://cdn-font.hyperos.mi.com/font/css?family=MiSans_VF:VF:Chinese_Simplify,Latin&display=swap",
+      "localUrl": "/official-external/12c80feebabdb438-css"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.2f934f6a30be65c8.0.woff2",
+      "localUrl": "/official-external/0cd26b0f78ec053b-cs.2f934f6a30be65c8.0.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.cff9af74f3741baf.1.woff2",
+      "localUrl": "/official-external/e65a765d0fc9dca0-cs.cff9af74f3741baf.1.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.0a2bcde63f0ee024.2.woff2",
+      "localUrl": "/official-external/ae74cb176874191d-cs.0a2bcde63f0ee024.2.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.b9dd9990c4e70f2d.3.woff2",
+      "localUrl": "/official-external/7661a9795809bd6f-cs.b9dd9990c4e70f2d.3.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.77ad5100083db1de.4.woff2",
+      "localUrl": "/official-external/94597a0670513a78-cs.77ad5100083db1de.4.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.420808337216d98a.5.woff2",
+      "localUrl": "/official-external/03a02e9c27d6c4a3-cs.420808337216d98a.5.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.1dbe1c54c0ad524b.6.woff2",
+      "localUrl": "/official-external/110eb5bfdc046fa7-cs.1dbe1c54c0ad524b.6.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.ed58b14505caca5a.7.woff2",
+      "localUrl": "/official-external/09de578d28b29733-cs.ed58b14505caca5a.7.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.0c0c93c6a76b948c.8.woff2",
+      "localUrl": "/official-external/0adeda64faf9709e-cs.0c0c93c6a76b948c.8.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.6f2593f221c73e6a.9.woff2",
+      "localUrl": "/official-external/1567dc1a72bee500-cs.6f2593f221c73e6a.9.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.6ac14e3b704c950f.10.woff2",
+      "localUrl": "/official-external/2c664deb841806f4-cs.6ac14e3b704c950f.10.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.af8da91ea228d8ab.11.woff2",
+      "localUrl": "/official-external/81052483d8ec3115-cs.af8da91ea228d8ab.11.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.141da5f0dc12316c.12.woff2",
+      "localUrl": "/official-external/86abbbe28f202d84-cs.141da5f0dc12316c.12.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.c41a65c89ff7abe2.13.woff2",
+      "localUrl": "/official-external/aaa31cbeeb00d680-cs.c41a65c89ff7abe2.13.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.64e92d707619091c.14.woff2",
+      "localUrl": "/official-external/5475738e461f299f-cs.64e92d707619091c.14.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.095a221022c600d3.15.woff2",
+      "localUrl": "/official-external/9311ad95e75dd200-cs.095a221022c600d3.15.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.e84f7cf1ae448570.17.woff2",
+      "localUrl": "/official-external/967552a85c98eae0-cs.e84f7cf1ae448570.17.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.5b904a0fa6f4effd.18.woff2",
+      "localUrl": "/official-external/82a2229653b96da0-cs.5b904a0fa6f4effd.18.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.4c4e12ac93f9ad70.19.woff2",
+      "localUrl": "/official-external/b5ed2696c533d280-cs.4c4e12ac93f9ad70.19.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.7b4b64f28d8f845a.21.woff2",
+      "localUrl": "/official-external/332505430a46a64c-cs.7b4b64f28d8f845a.21.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/lt.a6a7c6e600ff19f0.0.woff2",
+      "localUrl": "/official-external/c532fd51fc512818-lt.a6a7c6e600ff19f0.0.woff2"
+    },
+    {
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/lt.1c8ba56c4cd96839.5.woff2",
+      "localUrl": "/official-external/373e72ff212deda5-lt.1c8ba56c4cd96839.5.woff2"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/website-evcar/favicon.ico",
+      "localUrl": "/website-evcar/favicon.ico"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/login_default.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/login_default.svg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/fullscreen-expand.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/icons/fullscreen-expand.svg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/arrow.png",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/arrow.png"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/arrow.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/icons/arrow.svg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/viewCollapse.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/icons/viewCollapse.svg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/reset.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/icons/reset.svg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/2d-car-loading.mp4",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/2d-car-loading.mp4"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/643-78334cb0d740a1f9.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/643-78334cb0d740a1f9.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/configurator/preview/page-c4e8750997d603a8.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/app/configurator/preview/page-c4e8750997d603a8.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4723.bec47be77468f3ca.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/4723.bec47be77468f3ca.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/d41af17d2a057bf6.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/d41af17d2a057bf6.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/2466.63c1e071a3992103.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/2466.63c1e071a3992103.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/fd97baa7d22756f7.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/fd97baa7d22756f7.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/3598.9d14a1c3ad0f3fa1.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/3598.9d14a1c3ad0f3fa1.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/b10423f01556f9cc.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/b10423f01556f9cc.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/5426.4cad32dfc042e3eb.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/5426.4cad32dfc042e3eb.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6249.cc731a82d9476347.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/6249.cc731a82d9476347.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/db7b5d6e99a0cf2e.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/db7b5d6e99a0cf2e.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/276.e4e82ba8801a6d16.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/276.e4e82ba8801a6d16.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/fa248e7dab46c8bf.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/fa248e7dab46c8bf.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/7453.5e746100074abcb0.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/7453.5e746100074abcb0.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8268-fe32ec78dbc341bd.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/8268-fe32ec78dbc341bd.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/4a5ab6276f1557ff.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/4a5ab6276f1557ff.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/5687.f6844f92b0d69f24.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/5687.f6844f92b0d69f24.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/2d4a90cf05971cfa.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/2d4a90cf05971cfa.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/2948.871e7eca3ff7343a.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/2948.871e7eca3ff7343a.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/1d33065e3b9256c4.css",
+      "localUrl": "/activity-outer-assets/assets/_next/static/css/1d33065e3b9256c4.css"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/9146.88019152aad9fd25.js",
+      "localUrl": "/activity-outer-assets/assets/_next/static/chunks/9146.88019152aad9fd25.js"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/98CAFCE82B641D365DF172063E7FC31A_1779178154535.png",
+      "localUrl": "/official-external/47c0bdad958ef317-98CAFCE82B641D365DF172063E7FC31A_1779178154535.png"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/custom-logo.png",
+      "localUrl": "/activity-outer-assets/custom-logo.png"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/openDoor.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/icons/openDoor.svg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/loading.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/loading.svg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728295.png",
+      "localUrl": "/official-external/bfccb0b6c826d537-78805A221A988E79EF3F42D7C5BFD418_1758720728295.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660756.png",
+      "localUrl": "/official-external/1b6b6e7a5f603f0d-78805A221A988E79EF3F42D7C5BFD418_1758720660756.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758176784436.png",
+      "localUrl": "/official-external/b96b66614d185f99-78805A221A988E79EF3F42D7C5BFD418_1758176784436.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660814.png",
+      "localUrl": "/official-external/683a8e042bfd1477-78805A221A988E79EF3F42D7C5BFD418_1758720660814.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728306.png",
+      "localUrl": "/official-external/fc7d07f515da9252-78805A221A988E79EF3F42D7C5BFD418_1758720728306.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720732632.png",
+      "localUrl": "/official-external/13ad185ae066437b-78805A221A988E79EF3F42D7C5BFD418_1758720732632.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660753.png",
+      "localUrl": "/official-external/257adc3677c06429-78805A221A988E79EF3F42D7C5BFD418_1758720660753.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660731.png",
+      "localUrl": "/official-external/8fd59cf01fc669ea-78805A221A988E79EF3F42D7C5BFD418_1758720660731.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728300.png",
+      "localUrl": "/official-external/0cbc16232a668c63-78805A221A988E79EF3F42D7C5BFD418_1758720728300.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728358.png",
+      "localUrl": "/official-external/533bbe62d402be8a-78805A221A988E79EF3F42D7C5BFD418_1758720728358.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660804.png",
+      "localUrl": "/official-external/a069d2e528c40704-78805A221A988E79EF3F42D7C5BFD418_1758720660804.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728286.png",
+      "localUrl": "/official-external/73e88668b7079873-78805A221A988E79EF3F42D7C5BFD418_1758720728286.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660751.png",
+      "localUrl": "/official-external/f16b4ce85e2ed943-78805A221A988E79EF3F42D7C5BFD418_1758720660751.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660771.png",
+      "localUrl": "/official-external/f56ee63d0a1fb8d7-78805A221A988E79EF3F42D7C5BFD418_1758720660771.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728304.png",
+      "localUrl": "/official-external/155d6c959084cfc7-78805A221A988E79EF3F42D7C5BFD418_1758720728304.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660772.png",
+      "localUrl": "/official-external/815337a881b87fd3-78805A221A988E79EF3F42D7C5BFD418_1758720660772.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728252.png",
+      "localUrl": "/official-external/553f1fc21c3ef3c7-78805A221A988E79EF3F42D7C5BFD418_1758720728252.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728319.png",
+      "localUrl": "/official-external/d7399049bd8c1a24-78805A221A988E79EF3F42D7C5BFD418_1758720728319.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660776.png",
+      "localUrl": "/official-external/ff81f974910fdecc-78805A221A988E79EF3F42D7C5BFD418_1758720660776.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728316.png",
+      "localUrl": "/official-external/9c757341de26ba80-78805A221A988E79EF3F42D7C5BFD418_1758720728316.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/D5277DDD18A2DA244F6BC291D79FEF3D_1758804629085.jpg",
+      "localUrl": "/official-external/512de31e7d3e99e8-D5277DDD18A2DA244F6BC291D79FEF3D_1758804629085.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/EABAB258D1B92816CBD6C489F44A36E4_1758804629061.jpg",
+      "localUrl": "/official-external/b084b8caed65b0cc-EABAB258D1B92816CBD6C489F44A36E4_1758804629061.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720694679.png",
+      "localUrl": "/official-external/80106800c961e603-78805A221A988E79EF3F42D7C5BFD418_1758720694679.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/82AA34E1D6D1EA4D57E92EC1E1C626DE_1758804629074.jpg",
+      "localUrl": "/official-external/69d29e17848ba1c6-82AA34E1D6D1EA4D57E92EC1E1C626DE_1758804629074.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721140644.jpg",
+      "localUrl": "/official-external/80fae1d4bbf8cdbc-78805A221A988E79EF3F42D7C5BFD418_1758721140644.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721179054.jpg",
+      "localUrl": "/official-external/2b7f5722e270d586-78805A221A988E79EF3F42D7C5BFD418_1758721179054.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092205644.jpg",
+      "localUrl": "/official-external/4216412d54774fd0-78805A221A988E79EF3F42D7C5BFD418_1758092205644.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721151937.jpg",
+      "localUrl": "/official-external/64354d74f6270537-78805A221A988E79EF3F42D7C5BFD418_1758721151937.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092203933.jpg",
+      "localUrl": "/official-external/56684289b370dee0-78805A221A988E79EF3F42D7C5BFD418_1758092203933.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090882086.jpg",
+      "localUrl": "/official-external/5d747a8a6844a7dd-78805A221A988E79EF3F42D7C5BFD418_1758090882086.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090888163.jpg",
+      "localUrl": "/official-external/1183ff953b03e8bd-78805A221A988E79EF3F42D7C5BFD418_1758090888163.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090867180.jpg",
+      "localUrl": "/official-external/05a62a22a24bd1a8-78805A221A988E79EF3F42D7C5BFD418_1758090867180.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090160459.jpg",
+      "localUrl": "/official-external/0ff0217c8851ba6a-78805A221A988E79EF3F42D7C5BFD418_1758090160459.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090164629.jpg",
+      "localUrl": "/official-external/682be757b85950ac-78805A221A988E79EF3F42D7C5BFD418_1758090164629.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090162310.jpg",
+      "localUrl": "/official-external/34616fb5ddff6fe7-78805A221A988E79EF3F42D7C5BFD418_1758090162310.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092207649.jpg",
+      "localUrl": "/official-external/785b7636759b33a5-78805A221A988E79EF3F42D7C5BFD418_1758092207649.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090166912.jpg",
+      "localUrl": "/official-external/abdc58f914d44cf4-78805A221A988E79EF3F42D7C5BFD418_1758090166912.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721047159.jpg",
+      "localUrl": "/official-external/aba99a7f44a3919d-78805A221A988E79EF3F42D7C5BFD418_1758721047159.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721105734.jpg",
+      "localUrl": "/official-external/2d74d28b1c7e3423-78805A221A988E79EF3F42D7C5BFD418_1758721105734.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/9EECBC54381E78FE2CA473698ACA050D_1758767393699.jpg",
+      "localUrl": "/official-external/a76aaf0cd11db71f-9EECBC54381E78FE2CA473698ACA050D_1758767393699.jpg"
+    },
+    {
+      "url": "https://activity-outer-assets.cnbj1.mi-fds.com/activity-outer-assets/video.png",
+      "localUrl": "/official-external/ea243859526a01b9-video.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721014891.png",
+      "localUrl": "/official-external/60d59b7b4f32ba2c-78805A221A988E79EF3F42D7C5BFD418_1758721014891.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/217D0FE707B524C7D08026BE56750807_1758870919311.jpg",
+      "localUrl": "/official-external/a61dd7e166c1e2fd-217D0FE707B524C7D08026BE56750807_1758870919311.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716015824.png",
+      "localUrl": "/official-external/8307b0de7810b011-78805A221A988E79EF3F42D7C5BFD418_1758716015824.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716000723.png",
+      "localUrl": "/official-external/506d8f075eadc63a-78805A221A988E79EF3F42D7C5BFD418_1758716000723.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716009578.png",
+      "localUrl": "/official-external/d36a1981368b27a0-78805A221A988E79EF3F42D7C5BFD418_1758716009578.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/B5644F39EF86CCDD0D04BAE8F95FDB63_1758870964956.jpg",
+      "localUrl": "/official-external/2fdfa46eb3ea1dfb-B5644F39EF86CCDD0D04BAE8F95FDB63_1758870964956.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716045974.png",
+      "localUrl": "/official-external/3ffa145c3ce8cba0-78805A221A988E79EF3F42D7C5BFD418_1758716045974.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716038854.png",
+      "localUrl": "/official-external/dd50527bbc135d3e-78805A221A988E79EF3F42D7C5BFD418_1758716038854.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716021532.png",
+      "localUrl": "/official-external/4dee27733210caae-78805A221A988E79EF3F42D7C5BFD418_1758716021532.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716056126.png",
+      "localUrl": "/official-external/ce9d2ef588fb77a6-78805A221A988E79EF3F42D7C5BFD418_1758716056126.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716060834.png",
+      "localUrl": "/official-external/4aad9e3a98dc28b2-78805A221A988E79EF3F42D7C5BFD418_1758716060834.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090123113.png",
+      "localUrl": "/official-external/99bc94a314e51327-78805A221A988E79EF3F42D7C5BFD418_1758090123113.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090125177.png",
+      "localUrl": "/official-external/c1b2a279da86686a-78805A221A988E79EF3F42D7C5BFD418_1758090125177.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090126928.png",
+      "localUrl": "/official-external/461cfefbd2dfb58a-78805A221A988E79EF3F42D7C5BFD418_1758090126928.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090128307.png",
+      "localUrl": "/official-external/a754ee14b760cf12-78805A221A988E79EF3F42D7C5BFD418_1758090128307.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720948522.png",
+      "localUrl": "/official-external/295eaeea23033b18-78805A221A988E79EF3F42D7C5BFD418_1758720948522.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720927770.png",
+      "localUrl": "/official-external/c4e970214e0e16ea-78805A221A988E79EF3F42D7C5BFD418_1758720927770.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720952560.png",
+      "localUrl": "/official-external/fab00425db38437a-78805A221A988E79EF3F42D7C5BFD418_1758720952560.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720932251.png",
+      "localUrl": "/official-external/93bb68f83d17f8dd-78805A221A988E79EF3F42D7C5BFD418_1758720932251.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090648749.png",
+      "localUrl": "/official-external/a3447bdc5db96da0-78805A221A988E79EF3F42D7C5BFD418_1758090648749.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720935728.png",
+      "localUrl": "/official-external/30e69338d13b8b04-78805A221A988E79EF3F42D7C5BFD418_1758720935728.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090651588.png",
+      "localUrl": "/official-external/1ee6b0e26baa5157-78805A221A988E79EF3F42D7C5BFD418_1758090651588.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720939360.png",
+      "localUrl": "/official-external/c752cf58f69d0bad-78805A221A988E79EF3F42D7C5BFD418_1758720939360.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090653885.png",
+      "localUrl": "/official-external/cb1c78e6829dd170-78805A221A988E79EF3F42D7C5BFD418_1758090653885.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720942398.png",
+      "localUrl": "/official-external/ec4a4039bbe4e2e0-78805A221A988E79EF3F42D7C5BFD418_1758720942398.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720842821.jpg",
+      "localUrl": "/official-external/0418295a728b607d-78805A221A988E79EF3F42D7C5BFD418_1758720842821.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720771902.jpg",
+      "localUrl": "/official-external/a930ecec0e7aeb0d-78805A221A988E79EF3F42D7C5BFD418_1758720771902.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720882131.jpg",
+      "localUrl": "/official-external/d7f68509ea2dbaf1-78805A221A988E79EF3F42D7C5BFD418_1758720882131.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720801839.jpg",
+      "localUrl": "/official-external/c8def760e3229aef-78805A221A988E79EF3F42D7C5BFD418_1758720801839.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720867505.png",
+      "localUrl": "/official-external/679ad07e429314ab-78805A221A988E79EF3F42D7C5BFD418_1758720867505.png"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/bundle_su7_u/PC/26_0_00/ConfigTable.json",
+      "localUrl": "/activity-outer-assets/bundle_su7_u/PC/26_0_00/ConfigTable.json"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/plugin3D/decrypt/wasm_crypto_bg.wasm",
+      "localUrl": "/activity-outer-assets/plugin3D/decrypt/wasm_crypto_bg.wasm"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721129945.jpg",
+      "localUrl": "/official-external/d00b2a63be07c1ab-78805A221A988E79EF3F42D7C5BFD418_1758721129945.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721146416.jpg",
+      "localUrl": "/official-external/f4953626b4079b56-78805A221A988E79EF3F42D7C5BFD418_1758721146416.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090880403.jpg",
+      "localUrl": "/official-external/1b8952374d072ecd-78805A221A988E79EF3F42D7C5BFD418_1758090880403.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/A905B650158D9D7A7BA43610F32D53E8_1774619872122.jpg",
+      "localUrl": "/official-external/25ba67c09409a5ae-A905B650158D9D7A7BA43610F32D53E8_1774619872122.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/8250A6386ADD6EA578279D54AE138F29_1774605218417.jpg",
+      "localUrl": "/official-external/473d5e87efd51894-8250A6386ADD6EA578279D54AE138F29_1774605218417.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/CB4FD28435E3DBD8F5CCD7C4F4ED4514_1779788793199.jpg",
+      "localUrl": "/official-external/baf6a2cac1a8cd90-CB4FD28435E3DBD8F5CCD7C4F4ED4514_1779788793199.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/658C64FFA0B8BF1AB794AFC594C447A2_1760529875174.jpg",
+      "localUrl": "/official-external/332c62b97dcb3a2a-658C64FFA0B8BF1AB794AFC594C447A2_1760529875174.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/F7C56E7F820BF9A2EE33D0D9901C928D_1760526355330.jpg",
+      "localUrl": "/official-external/f5a48542a4f422e6-F7C56E7F820BF9A2EE33D0D9901C928D_1760526355330.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719420343.png",
+      "localUrl": "/official-external/e9d71d1e074dd601-78805A221A988E79EF3F42D7C5BFD418_1758719420343.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719134881.jpg",
+      "localUrl": "/official-external/77860591bdf4b607-78805A221A988E79EF3F42D7C5BFD418_1758719134881.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/9613DAC25319C7A3E0B9E3941EC01F24_1760529955514.jpg",
+      "localUrl": "/official-external/c9253cbc4d1a4d1b-9613DAC25319C7A3E0B9E3941EC01F24_1760529955514.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718961395.png",
+      "localUrl": "/official-external/e29fb514e099cef7-78805A221A988E79EF3F42D7C5BFD418_1758718961395.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088730622.png",
+      "localUrl": "/official-external/685d21e4062e76df-78805A221A988E79EF3F42D7C5BFD418_1758088730622.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088793950.png",
+      "localUrl": "/official-external/fe18d2481326d70d-78805A221A988E79EF3F42D7C5BFD418_1758088793950.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718997294.png",
+      "localUrl": "/official-external/d9fcedf32533636e-78805A221A988E79EF3F42D7C5BFD418_1758718997294.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758728729122.png",
+      "localUrl": "/official-external/4b0cf52d316e6daf-78805A221A988E79EF3F42D7C5BFD418_1758728729122.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088751589.png",
+      "localUrl": "/official-external/d511517bfb004f88-78805A221A988E79EF3F42D7C5BFD418_1758088751589.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718882020.png",
+      "localUrl": "/official-external/e4d2eba5b1950e9e-78805A221A988E79EF3F42D7C5BFD418_1758718882020.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088823391.png",
+      "localUrl": "/official-external/2d1156762518b82b-78805A221A988E79EF3F42D7C5BFD418_1758088823391.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/B4757F9223FF69C163430C49487D5B77_1760530133355.jpg",
+      "localUrl": "/official-external/47381229a9b1706d-B4757F9223FF69C163430C49487D5B77_1760530133355.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/783CFAE3DED7FE67129E8D7DD7BF2B2D_1760530091141.jpg",
+      "localUrl": "/official-external/6754866c9a4114d2-783CFAE3DED7FE67129E8D7DD7BF2B2D_1760530091141.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/71FC23FAD98586728406AC6DAF607584_1760530181165.jpg",
+      "localUrl": "/official-external/e2619f235d05b75b-71FC23FAD98586728406AC6DAF607584_1760530181165.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/C16D4A69221C6E959C1E103D45626E2A_1758804849861.jpg",
+      "localUrl": "/official-external/8f3f6ceac6a2830f-C16D4A69221C6E959C1E103D45626E2A_1758804849861.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/4F750857AE85610128A5BA2B1B60B862_1760530222861.jpg",
+      "localUrl": "/official-external/bc56b17d7be9f320-4F750857AE85610128A5BA2B1B60B862_1760530222861.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719683065.png",
+      "localUrl": "/official-external/59ede2893ea39eef-78805A221A988E79EF3F42D7C5BFD418_1758719683065.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758094512769.png",
+      "localUrl": "/official-external/1d3bb9de7565180f-78805A221A988E79EF3F42D7C5BFD418_1758094512769.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758094505644.png",
+      "localUrl": "/official-external/3ad305fd983678b7-78805A221A988E79EF3F42D7C5BFD418_1758094505644.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/041B369C15C5048475DAA4FE5F4C6742_1758804912490.jpg",
+      "localUrl": "/official-external/52f00c050ef04eb1-041B369C15C5048475DAA4FE5F4C6742_1758804912490.jpg"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/plugin3D/loaders/libs/draco/draco_wasm_wrapper.js",
+      "localUrl": "/activity-outer-assets/plugin3D/loaders/libs/draco/draco_wasm_wrapper.js"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/plugin3D/loaders/libs/draco/draco_decoder.wasm",
+      "localUrl": "/activity-outer-assets/plugin3D/loaders/libs/draco/draco_decoder.wasm"
+    },
+    {
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/2d-thumb-loading.svg",
+      "localUrl": "/activity-outer-assets/0328/images/configurator/icons/2d-thumb-loading.svg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758280953114.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/9070c9ee8cffc39a-78805A221A988E79EF3F42D7C5BFD418_1758280953114.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/11CF70EE6419511B2C936513350F9308_1758717646317.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/0c0a76635bc82c56-11CF70EE6419511B2C936513350F9308_1758717646317.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/E1CE6113145D78C0D12BA6EB3DCE1BBA_1758098949012.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/4fc4fec53f6a48c7-E1CE6113145D78C0D12BA6EB3DCE1BBA_1758098949012.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/image_4ef6baf57e204fc29c50381f5eb9b515_1728635614167.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/01218a8df6919b4d-image_4ef6baf57e204fc29c50381f5eb9b515_1728635614167.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/4D7737A1FFE0AB4982403AAA77FB3762_1758098912935.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/98e7bcf22f76de5f-4D7737A1FFE0AB4982403AAA77FB3762_1758098912935.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/BF8C2660D1C13D04320C4C0799596163_1757486603916.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/69c33557ed7cc8f5-BF8C2660D1C13D04320C4C0799596163_1757486603916.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/724F0F2EBA9474DD16E375681765A690_1758098913359.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/986912f1b0362345-724F0F2EBA9474DD16E375681765A690_1758098913359.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758280972350.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/d228228dd5675747-78805A221A988E79EF3F42D7C5BFD418_1758280972350.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/95565A001CDEF71542682E7779A4E50D_1758717646887.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/f6d347c323b391c3-95565A001CDEF71542682E7779A4E50D_1758717646887.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/64ECF59B87FE98C49A9F24B8A9FD270B_1758098949534.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/850707d5ade72cb0-64ECF59B87FE98C49A9F24B8A9FD270B_1758098949534.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/550A79B4B36AECBC5F4F38CB25AC7254_1757490404963.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/74feb0ff28ebdccc-550A79B4B36AECBC5F4F38CB25AC7254_1757490404963.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281011058.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/56561e8c2a12be54-78805A221A988E79EF3F42D7C5BFD418_1758281011058.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/5F06483FA765C00377BAF5A766B4F425_1758098856957.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/2d6913a5008fc4df-5F06483FA765C00377BAF5A766B4F425_1758098856957.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281111796.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/f1ac219fe7686c4c-78805A221A988E79EF3F42D7C5BFD418_1758281111796.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/E7EEFBECFB33E65882D4D927ED30C8FC_1758717647536.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/e1f91d8769530118-E7EEFBECFB33E65882D4D927ED30C8FC_1758717647536.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/637CDE644F22AE8BE6D19B4559911255_1758717648313.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/c3ee74780b492a45-637CDE644F22AE8BE6D19B4559911255_1758717648313.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/6CE73821FCF5FA23D53589A47E70B3E0_1758098910101.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/1b49c5d45f471dfb-6CE73821FCF5FA23D53589A47E70B3E0_1758098910101.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/01F1117F2EE9F830780054B37850D2AF_1758098950103.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/24c7a302a5ada27e-01F1117F2EE9F830780054B37850D2AF_1758098950103.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281133016.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/49ffd912abef233d-78805A221A988E79EF3F42D7C5BFD418_1758281133016.jpg"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/2059E896A1A9EDE9261998BCC5EBFCB3_1758717649021.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/adf2d779a47318d9-2059E896A1A9EDE9261998BCC5EBFCB3_1758717649021.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/F8F21FD2964FD13A83B966937FE3C68C_1758717649750.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/b0a4c0722f4f790e-F8F21FD2964FD13A83B966937FE3C68C_1758717649750.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/67EFCD906A6CF760568136CFA43A10D6_1758098857972.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/95bd3166d05e3cc7-67EFCD906A6CF760568136CFA43A10D6_1758098857972.png"
+    },
+    {
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281163398.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp",
+      "localUrl": "/official-external/3ce34c355956d6d9-78805A221A988E79EF3F42D7C5BFD418_1758281163398.jpg"
+    }
+  ],
+  "missingAssets": []
+}

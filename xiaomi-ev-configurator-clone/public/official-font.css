@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MiSans VF";
+  src: url("/vendor-original/font/XiaomiEVSans-Medium.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+}
+
+html,
+body {
+  font-family: "MiSans VF", "PingFang SC", "Microsoft YaHei", sans-serif;
+}

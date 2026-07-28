@@ -1,0 +1,1336 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "a99a72eeb4eb8959",
+      "kind": "stylesheet",
+      "name": "7c81f1e1351f6790.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/a99a72eeb4eb8959.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/7c81f1e1351f6790.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "4404766a1290e4b3",
+      "kind": "stylesheet",
+      "name": "34c9aabd4daa55d0.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/4404766a1290e4b3.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/34c9aabd4daa55d0.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "0321559cd722404d",
+      "kind": "stylesheet",
+      "name": "30e1f38961b0030c.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/0321559cd722404d.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/30e1f38961b0030c.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "5befe5fade985149",
+      "kind": "stylesheet",
+      "name": "73c00cd95dc66651.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/5befe5fade985149.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/73c00cd95dc66651.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "822375ed334bb391",
+      "kind": "stylesheet",
+      "name": "e8c3aead6140af8d.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/822375ed334bb391.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/e8c3aead6140af8d.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3f6ee958341c0b08",
+      "kind": "stylesheet",
+      "name": "8e5c6d7e1ea1c930.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/3f6ee958341c0b08.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/8e5c6d7e1ea1c930.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "12c80feebabdb438",
+      "kind": "stylesheet",
+      "name": "css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/12c80feebabdb438",
+      "url": "https://cdn-font.hyperos.mi.com/font/css?family=MiSans_VF:VF:Chinese_Simplify,Latin&display=swap"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3b3a656e61530f1a",
+      "kind": "image",
+      "name": "login_default.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/3b3a656e61530f1a.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/login_default.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "018ccdded3ca5080",
+      "kind": "image",
+      "name": "fullscreen-expand.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/018ccdded3ca5080.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/fullscreen-expand.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "14ac172a20e8e2e4",
+      "kind": "image",
+      "name": "arrow.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/14ac172a20e8e2e4.png",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/arrow.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a3b248027b9b2693",
+      "kind": "image",
+      "name": "arrow.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/a3b248027b9b2693.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/arrow.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "47289c7cb878ae01",
+      "kind": "image",
+      "name": "viewCollapse.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/47289c7cb878ae01.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/viewCollapse.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b7b9b7b487237b45",
+      "kind": "image",
+      "name": "reset.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/b7b9b7b487237b45.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/reset.svg"
+    },
+    {
+      "contentType": "text/css",
+      "id": "707ab5b190d1ec1f",
+      "kind": "stylesheet",
+      "name": "d41af17d2a057bf6.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/707ab5b190d1ec1f.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/d41af17d2a057bf6.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "bc9f92f58359d29a",
+      "kind": "stylesheet",
+      "name": "fd97baa7d22756f7.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/bc9f92f58359d29a.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/fd97baa7d22756f7.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "b8abbbe94f920cb4",
+      "kind": "stylesheet",
+      "name": "b10423f01556f9cc.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/b8abbbe94f920cb4.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/b10423f01556f9cc.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "1ca9760dd8ae8478",
+      "kind": "stylesheet",
+      "name": "db7b5d6e99a0cf2e.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1ca9760dd8ae8478.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/db7b5d6e99a0cf2e.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "3e4d8b113ff9ddc2",
+      "kind": "stylesheet",
+      "name": "fa248e7dab46c8bf.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/3e4d8b113ff9ddc2.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/fa248e7dab46c8bf.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "17c3019083075913",
+      "kind": "stylesheet",
+      "name": "4a5ab6276f1557ff.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/17c3019083075913.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/4a5ab6276f1557ff.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "cfedb570896a1291",
+      "kind": "stylesheet",
+      "name": "2d4a90cf05971cfa.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/cfedb570896a1291.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/2d4a90cf05971cfa.css"
+    },
+    {
+      "contentType": "text/css",
+      "id": "bad8c25f65f090aa",
+      "kind": "stylesheet",
+      "name": "1d33065e3b9256c4.css",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/bad8c25f65f090aa.css",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/1d33065e3b9256c4.css"
+    },
+    {
+      "contentType": "image/png",
+      "id": "47c0bdad958ef317",
+      "kind": "image",
+      "name": "98CAFCE82B641D365DF172063E7FC31A_1779178154535.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/47c0bdad958ef317.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/98CAFCE82B641D365DF172063E7FC31A_1779178154535.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "8d4fafcaabb5d845",
+      "kind": "image",
+      "name": "custom-logo.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/8d4fafcaabb5d845.png",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/custom-logo.png"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "512a529a67635124",
+      "kind": "image",
+      "name": "openDoor.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/512a529a67635124.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/openDoor.svg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "352a1e9e55037b28",
+      "kind": "image",
+      "name": "loading.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/352a1e9e55037b28.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/loading.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "bfccb0b6c826d537",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728295.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/bfccb0b6c826d537.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728295.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "1b6b6e7a5f603f0d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660756.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1b6b6e7a5f603f0d.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660756.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "b96b66614d185f99",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758176784436.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/b96b66614d185f99.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758176784436.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "683a8e042bfd1477",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660814.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/683a8e042bfd1477.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660814.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "fc7d07f515da9252",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728306.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/fc7d07f515da9252.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728306.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "13ad185ae066437b",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720732632.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/13ad185ae066437b.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720732632.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "257adc3677c06429",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660753.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/257adc3677c06429.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660753.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "8fd59cf01fc669ea",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660731.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/8fd59cf01fc669ea.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660731.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0cbc16232a668c63",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728300.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/0cbc16232a668c63.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728300.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "533bbe62d402be8a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728358.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/533bbe62d402be8a.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728358.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "a069d2e528c40704",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660804.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/a069d2e528c40704.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660804.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "73e88668b7079873",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728286.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/73e88668b7079873.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728286.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "f16b4ce85e2ed943",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660751.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/f16b4ce85e2ed943.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660751.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "f56ee63d0a1fb8d7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660771.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/f56ee63d0a1fb8d7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660771.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "155d6c959084cfc7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728304.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/155d6c959084cfc7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728304.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "815337a881b87fd3",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660772.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/815337a881b87fd3.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660772.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "553f1fc21c3ef3c7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728252.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/553f1fc21c3ef3c7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728252.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "d7399049bd8c1a24",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728319.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/d7399049bd8c1a24.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728319.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ff81f974910fdecc",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660776.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/ff81f974910fdecc.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660776.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "9c757341de26ba80",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728316.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/9c757341de26ba80.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728316.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "512de31e7d3e99e8",
+      "kind": "image",
+      "name": "D5277DDD18A2DA244F6BC291D79FEF3D_1758804629085.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/512de31e7d3e99e8.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/D5277DDD18A2DA244F6BC291D79FEF3D_1758804629085.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "b084b8caed65b0cc",
+      "kind": "image",
+      "name": "EABAB258D1B92816CBD6C489F44A36E4_1758804629061.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/b084b8caed65b0cc.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/EABAB258D1B92816CBD6C489F44A36E4_1758804629061.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "80106800c961e603",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720694679.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/80106800c961e603.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720694679.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "69d29e17848ba1c6",
+      "kind": "image",
+      "name": "82AA34E1D6D1EA4D57E92EC1E1C626DE_1758804629074.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/69d29e17848ba1c6.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/82AA34E1D6D1EA4D57E92EC1E1C626DE_1758804629074.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "2b7f5722e270d586",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721179054.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/2b7f5722e270d586.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721179054.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "4216412d54774fd0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758092205644.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/4216412d54774fd0.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092205644.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "56684289b370dee0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758092203933.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/56684289b370dee0.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092203933.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1183ff953b03e8bd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090888163.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1183ff953b03e8bd.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090888163.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "05a62a22a24bd1a8",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090867180.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/05a62a22a24bd1a8.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090867180.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "0ff0217c8851ba6a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090160459.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/0ff0217c8851ba6a.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090160459.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "682be757b85950ac",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090164629.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/682be757b85950ac.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090164629.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "34616fb5ddff6fe7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090162310.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/34616fb5ddff6fe7.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090162310.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "785b7636759b33a5",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758092207649.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/785b7636759b33a5.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092207649.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "abdc58f914d44cf4",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090166912.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/abdc58f914d44cf4.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090166912.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ea243859526a01b9",
+      "kind": "image",
+      "name": "video.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/ea243859526a01b9.png",
+      "url": "https://activity-outer-assets.cnbj1.mi-fds.com/activity-outer-assets/video.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "99bc94a314e51327",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090123113.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/99bc94a314e51327.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090123113.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "c1b2a279da86686a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090125177.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/c1b2a279da86686a.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090125177.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "461cfefbd2dfb58a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090126928.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/461cfefbd2dfb58a.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090126928.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "a754ee14b760cf12",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090128307.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/a754ee14b760cf12.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090128307.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "295eaeea23033b18",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720948522.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/295eaeea23033b18.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720948522.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "c4e970214e0e16ea",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720927770.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/c4e970214e0e16ea.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720927770.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "fab00425db38437a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720952560.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/fab00425db38437a.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720952560.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "93bb68f83d17f8dd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720932251.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/93bb68f83d17f8dd.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720932251.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "a3447bdc5db96da0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090648749.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/a3447bdc5db96da0.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090648749.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "30e69338d13b8b04",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720935728.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/30e69338d13b8b04.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720935728.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "1ee6b0e26baa5157",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090651588.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1ee6b0e26baa5157.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090651588.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "c752cf58f69d0bad",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720939360.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/c752cf58f69d0bad.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720939360.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "cb1c78e6829dd170",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090653885.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/cb1c78e6829dd170.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090653885.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ec4a4039bbe4e2e0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720942398.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/ec4a4039bbe4e2e0.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720942398.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "d00b2a63be07c1ab",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721129945.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/d00b2a63be07c1ab.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721129945.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f4953626b4079b56",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721146416.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/f4953626b4079b56.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721146416.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "1b8952374d072ecd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090880403.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1b8952374d072ecd.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090880403.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "25ba67c09409a5ae",
+      "kind": "image",
+      "name": "A905B650158D9D7A7BA43610F32D53E8_1774619872122.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/25ba67c09409a5ae.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/A905B650158D9D7A7BA43610F32D53E8_1774619872122.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "473d5e87efd51894",
+      "kind": "image",
+      "name": "8250A6386ADD6EA578279D54AE138F29_1774605218417.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/473d5e87efd51894.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/8250A6386ADD6EA578279D54AE138F29_1774605218417.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "baf6a2cac1a8cd90",
+      "kind": "image",
+      "name": "CB4FD28435E3DBD8F5CCD7C4F4ED4514_1779788793199.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/baf6a2cac1a8cd90.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/CB4FD28435E3DBD8F5CCD7C4F4ED4514_1779788793199.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "332c62b97dcb3a2a",
+      "kind": "image",
+      "name": "658C64FFA0B8BF1AB794AFC594C447A2_1760529875174.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/332c62b97dcb3a2a.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/658C64FFA0B8BF1AB794AFC594C447A2_1760529875174.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "f5a48542a4f422e6",
+      "kind": "image",
+      "name": "F7C56E7F820BF9A2EE33D0D9901C928D_1760526355330.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/f5a48542a4f422e6.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/F7C56E7F820BF9A2EE33D0D9901C928D_1760526355330.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e9d71d1e074dd601",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758719420343.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/e9d71d1e074dd601.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719420343.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "77860591bdf4b607",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758719134881.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/77860591bdf4b607.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719134881.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "c9253cbc4d1a4d1b",
+      "kind": "image",
+      "name": "9613DAC25319C7A3E0B9E3941EC01F24_1760529955514.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/c9253cbc4d1a4d1b.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/9613DAC25319C7A3E0B9E3941EC01F24_1760529955514.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e29fb514e099cef7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758718961395.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/e29fb514e099cef7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718961395.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "685d21e4062e76df",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088730622.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/685d21e4062e76df.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088730622.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "fe18d2481326d70d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088793950.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/fe18d2481326d70d.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088793950.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "d9fcedf32533636e",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758718997294.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/d9fcedf32533636e.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718997294.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4b0cf52d316e6daf",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758728729122.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/4b0cf52d316e6daf.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758728729122.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "d511517bfb004f88",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088751589.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/d511517bfb004f88.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088751589.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "e4d2eba5b1950e9e",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758718882020.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/e4d2eba5b1950e9e.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718882020.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2d1156762518b82b",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088823391.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/2d1156762518b82b.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088823391.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "47381229a9b1706d",
+      "kind": "image",
+      "name": "B4757F9223FF69C163430C49487D5B77_1760530133355.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/47381229a9b1706d.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/B4757F9223FF69C163430C49487D5B77_1760530133355.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "6754866c9a4114d2",
+      "kind": "image",
+      "name": "783CFAE3DED7FE67129E8D7DD7BF2B2D_1760530091141.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/6754866c9a4114d2.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/783CFAE3DED7FE67129E8D7DD7BF2B2D_1760530091141.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "e2619f235d05b75b",
+      "kind": "image",
+      "name": "71FC23FAD98586728406AC6DAF607584_1760530181165.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/e2619f235d05b75b.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/71FC23FAD98586728406AC6DAF607584_1760530181165.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8f3f6ceac6a2830f",
+      "kind": "image",
+      "name": "C16D4A69221C6E959C1E103D45626E2A_1758804849861.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/8f3f6ceac6a2830f.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/C16D4A69221C6E959C1E103D45626E2A_1758804849861.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "bc56b17d7be9f320",
+      "kind": "image",
+      "name": "4F750857AE85610128A5BA2B1B60B862_1760530222861.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/bc56b17d7be9f320.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/4F750857AE85610128A5BA2B1B60B862_1760530222861.jpg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "59ede2893ea39eef",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758719683065.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/59ede2893ea39eef.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719683065.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "1d3bb9de7565180f",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758094512769.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1d3bb9de7565180f.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758094512769.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3ad305fd983678b7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758094505644.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/3ad305fd983678b7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758094505644.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "52f00c050ef04eb1",
+      "kind": "image",
+      "name": "041B369C15C5048475DAA4FE5F4C6742_1758804912490.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/52f00c050ef04eb1.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/041B369C15C5048475DAA4FE5F4C6742_1758804912490.jpg"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "49db354e6b6bc6ea",
+      "kind": "image",
+      "name": "2d-thumb-loading.svg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/49db354e6b6bc6ea.svg",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/2d-thumb-loading.svg"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9070c9ee8cffc39a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758280953114.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/9070c9ee8cffc39a.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758280953114.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "0c0a76635bc82c56",
+      "kind": "image",
+      "name": "11CF70EE6419511B2C936513350F9308_1758717646317.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/0c0a76635bc82c56.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/11CF70EE6419511B2C936513350F9308_1758717646317.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "4fc4fec53f6a48c7",
+      "kind": "image",
+      "name": "E1CE6113145D78C0D12BA6EB3DCE1BBA_1758098949012.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/4fc4fec53f6a48c7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/E1CE6113145D78C0D12BA6EB3DCE1BBA_1758098949012.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "01218a8df6919b4d",
+      "kind": "image",
+      "name": "image_4ef6baf57e204fc29c50381f5eb9b515_1728635614167.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/01218a8df6919b4d.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/image_4ef6baf57e204fc29c50381f5eb9b515_1728635614167.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "98e7bcf22f76de5f",
+      "kind": "image",
+      "name": "4D7737A1FFE0AB4982403AAA77FB3762_1758098912935.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/98e7bcf22f76de5f.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/4D7737A1FFE0AB4982403AAA77FB3762_1758098912935.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "69c33557ed7cc8f5",
+      "kind": "image",
+      "name": "BF8C2660D1C13D04320C4C0799596163_1757486603916.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/69c33557ed7cc8f5.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/BF8C2660D1C13D04320C4C0799596163_1757486603916.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "986912f1b0362345",
+      "kind": "image",
+      "name": "724F0F2EBA9474DD16E375681765A690_1758098913359.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/986912f1b0362345.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/724F0F2EBA9474DD16E375681765A690_1758098913359.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "d228228dd5675747",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758280972350.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/d228228dd5675747.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758280972350.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f6d347c323b391c3",
+      "kind": "image",
+      "name": "95565A001CDEF71542682E7779A4E50D_1758717646887.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/f6d347c323b391c3.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/95565A001CDEF71542682E7779A4E50D_1758717646887.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "850707d5ade72cb0",
+      "kind": "image",
+      "name": "64ECF59B87FE98C49A9F24B8A9FD270B_1758098949534.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/850707d5ade72cb0.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/64ECF59B87FE98C49A9F24B8A9FD270B_1758098949534.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "74feb0ff28ebdccc",
+      "kind": "image",
+      "name": "550A79B4B36AECBC5F4F38CB25AC7254_1757490404963.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/74feb0ff28ebdccc.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/550A79B4B36AECBC5F4F38CB25AC7254_1757490404963.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "56561e8c2a12be54",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281011058.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/56561e8c2a12be54.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281011058.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2d6913a5008fc4df",
+      "kind": "image",
+      "name": "5F06483FA765C00377BAF5A766B4F425_1758098856957.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/2d6913a5008fc4df.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/5F06483FA765C00377BAF5A766B4F425_1758098856957.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f1ac219fe7686c4c",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281111796.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/f1ac219fe7686c4c.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281111796.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e1f91d8769530118",
+      "kind": "image",
+      "name": "E7EEFBECFB33E65882D4D927ED30C8FC_1758717647536.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/e1f91d8769530118.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/E7EEFBECFB33E65882D4D927ED30C8FC_1758717647536.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c3ee74780b492a45",
+      "kind": "image",
+      "name": "637CDE644F22AE8BE6D19B4559911255_1758717648313.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/c3ee74780b492a45.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/637CDE644F22AE8BE6D19B4559911255_1758717648313.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1b49c5d45f471dfb",
+      "kind": "image",
+      "name": "6CE73821FCF5FA23D53589A47E70B3E0_1758098910101.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/1b49c5d45f471dfb.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/6CE73821FCF5FA23D53589A47E70B3E0_1758098910101.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "24c7a302a5ada27e",
+      "kind": "image",
+      "name": "01F1117F2EE9F830780054B37850D2AF_1758098950103.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/24c7a302a5ada27e.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/01F1117F2EE9F830780054B37850D2AF_1758098950103.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "49ffd912abef233d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281133016.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/49ffd912abef233d.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281133016.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "adf2d779a47318d9",
+      "kind": "image",
+      "name": "2059E896A1A9EDE9261998BCC5EBFCB3_1758717649021.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/adf2d779a47318d9.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/2059E896A1A9EDE9261998BCC5EBFCB3_1758717649021.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b0a4c0722f4f790e",
+      "kind": "image",
+      "name": "F8F21FD2964FD13A83B966937FE3C68C_1758717649750.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/b0a4c0722f4f790e.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/F8F21FD2964FD13A83B966937FE3C68C_1758717649750.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "95bd3166d05e3cc7",
+      "kind": "image",
+      "name": "67EFCD906A6CF760568136CFA43A10D6_1758098857972.png",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/95bd3166d05e3cc7.png",
+      "url": "https://img.v.mifile.cn/nr-upload-car/67EFCD906A6CF760568136CFA43A10D6_1758098857972.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "3ce34c355956d6d9",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281163398.jpg",
+      "path": "/var/folders/wf/mzsmn2917nndfhdnj_nlpppr0000gn/T/browser-use/assets/7f61dd8b-ee88-4a89-bf18-65e7addf71af/3ce34c355956d6d9.jpg",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281163398.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "0cd26b0f78ec053b",
+      "name": "cs.2f934f6a30be65c8.0.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.2f934f6a30be65c8.0.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "e65a765d0fc9dca0",
+      "name": "cs.cff9af74f3741baf.1.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.cff9af74f3741baf.1.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "ae74cb176874191d",
+      "name": "cs.0a2bcde63f0ee024.2.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.0a2bcde63f0ee024.2.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "7661a9795809bd6f",
+      "name": "cs.b9dd9990c4e70f2d.3.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.b9dd9990c4e70f2d.3.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "94597a0670513a78",
+      "name": "cs.77ad5100083db1de.4.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.77ad5100083db1de.4.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "03a02e9c27d6c4a3",
+      "name": "cs.420808337216d98a.5.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.420808337216d98a.5.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "110eb5bfdc046fa7",
+      "name": "cs.1dbe1c54c0ad524b.6.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.1dbe1c54c0ad524b.6.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "09de578d28b29733",
+      "name": "cs.ed58b14505caca5a.7.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.ed58b14505caca5a.7.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "0adeda64faf9709e",
+      "name": "cs.0c0c93c6a76b948c.8.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.0c0c93c6a76b948c.8.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "1567dc1a72bee500",
+      "name": "cs.6f2593f221c73e6a.9.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.6f2593f221c73e6a.9.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "2c664deb841806f4",
+      "name": "cs.6ac14e3b704c950f.10.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.6ac14e3b704c950f.10.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "81052483d8ec3115",
+      "name": "cs.af8da91ea228d8ab.11.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.af8da91ea228d8ab.11.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "86abbbe28f202d84",
+      "name": "cs.141da5f0dc12316c.12.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.141da5f0dc12316c.12.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "aaa31cbeeb00d680",
+      "name": "cs.c41a65c89ff7abe2.13.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.c41a65c89ff7abe2.13.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "5475738e461f299f",
+      "name": "cs.64e92d707619091c.14.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.64e92d707619091c.14.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "9311ad95e75dd200",
+      "name": "cs.095a221022c600d3.15.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.095a221022c600d3.15.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "967552a85c98eae0",
+      "name": "cs.e84f7cf1ae448570.17.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.e84f7cf1ae448570.17.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "82a2229653b96da0",
+      "name": "cs.5b904a0fa6f4effd.18.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.5b904a0fa6f4effd.18.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "b5ed2696c533d280",
+      "name": "cs.4c4e12ac93f9ad70.19.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.4c4e12ac93f9ad70.19.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "332505430a46a64c",
+      "name": "cs.7b4b64f28d8f845a.21.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.7b4b64f28d8f845a.21.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "c532fd51fc512818",
+      "name": "lt.a6a7c6e600ff19f0.0.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/lt.a6a7c6e600ff19f0.0.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "373e72ff212deda5",
+      "name": "lt.1c8ba56c4cd96839.5.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/lt.1c8ba56c4cd96839.5.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "0f2772e48a738e65",
+      "name": "favicon.ico",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://s1.xiaomiev.com/website-evcar/favicon.ico"
+    },
+    {
+      "contentType": null,
+      "id": "d2a01c546ef7407c",
+      "name": "2d-car-loading.mp4",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/2d-car-loading.mp4"
+    },
+    {
+      "contentType": null,
+      "id": "80fae1d4bbf8cdbc",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721140644.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721140644.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "64354d74f6270537",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721151937.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721151937.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "5d747a8a6844a7dd",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090882086.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090882086.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "aba99a7f44a3919d",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721047159.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721047159.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "2d74d28b1c7e3423",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721105734.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721105734.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "a76aaf0cd11db71f",
+      "name": "9EECBC54381E78FE2CA473698ACA050D_1758767393699.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/9EECBC54381E78FE2CA473698ACA050D_1758767393699.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "60d59b7b4f32ba2c",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721014891.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721014891.png"
+    },
+    {
+      "contentType": null,
+      "id": "a61dd7e166c1e2fd",
+      "name": "217D0FE707B524C7D08026BE56750807_1758870919311.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/217D0FE707B524C7D08026BE56750807_1758870919311.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "8307b0de7810b011",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716015824.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716015824.png"
+    },
+    {
+      "contentType": null,
+      "id": "506d8f075eadc63a",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716000723.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716000723.png"
+    },
+    {
+      "contentType": null,
+      "id": "d36a1981368b27a0",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716009578.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716009578.png"
+    },
+    {
+      "contentType": null,
+      "id": "2fdfa46eb3ea1dfb",
+      "name": "B5644F39EF86CCDD0D04BAE8F95FDB63_1758870964956.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/B5644F39EF86CCDD0D04BAE8F95FDB63_1758870964956.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "3ffa145c3ce8cba0",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716045974.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716045974.png"
+    },
+    {
+      "contentType": null,
+      "id": "dd50527bbc135d3e",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716038854.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716038854.png"
+    },
+    {
+      "contentType": null,
+      "id": "4dee27733210caae",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716021532.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716021532.png"
+    },
+    {
+      "contentType": null,
+      "id": "ce9d2ef588fb77a6",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716056126.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716056126.png"
+    },
+    {
+      "contentType": null,
+      "id": "4aad9e3a98dc28b2",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716060834.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716060834.png"
+    },
+    {
+      "contentType": null,
+      "id": "0418295a728b607d",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720842821.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720842821.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "a930ecec0e7aeb0d",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720771902.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720771902.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "d7f68509ea2dbaf1",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720882131.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720882131.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "c8def760e3229aef",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720801839.jpg",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720801839.jpg"
+    },
+    {
+      "contentType": null,
+      "id": "679ad07e429314ab",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720867505.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js:1:126959\n    at https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56471\n    at new Promise (<anonymous>)\n    at window.fetch (https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js:1:56399)\n    at iV (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720867505.png"
+    }
+  ]
+}

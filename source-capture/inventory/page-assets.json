@@ -1,0 +1,4367 @@
+{
+  "assets": [
+    {
+      "id": "a99a72eeb4eb8959",
+      "kind": "stylesheet",
+      "name": "7c81f1e1351f6790.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6138,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/7c81f1e1351f6790.css"
+    },
+    {
+      "id": "4404766a1290e4b3",
+      "kind": "stylesheet",
+      "name": "34c9aabd4daa55d0.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6139,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/34c9aabd4daa55d0.css"
+    },
+    {
+      "id": "0321559cd722404d",
+      "kind": "stylesheet",
+      "name": "30e1f38961b0030c.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6140,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/30e1f38961b0030c.css"
+    },
+    {
+      "id": "5befe5fade985149",
+      "kind": "stylesheet",
+      "name": "73c00cd95dc66651.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6141,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/73c00cd95dc66651.css"
+    },
+    {
+      "id": "822375ed334bb391",
+      "kind": "stylesheet",
+      "name": "e8c3aead6140af8d.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6142,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/e8c3aead6140af8d.css"
+    },
+    {
+      "id": "3f6ee958341c0b08",
+      "kind": "stylesheet",
+      "name": "8e5c6d7e1ea1c930.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6143,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/8e5c6d7e1ea1c930.css"
+    },
+    {
+      "id": "cdf2a2686d296160",
+      "kind": "script",
+      "name": "webpack-13f9130553f0f656.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6144,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6205,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/webpack-13f9130553f0f656.js"
+    },
+    {
+      "id": "da85e526b83b15a8",
+      "kind": "script",
+      "name": "fd9d1056-027dfa06d4d1a067.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6145,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/fd9d1056-027dfa06d4d1a067.js"
+    },
+    {
+      "id": "c8b9c64416ab62bc",
+      "kind": "script",
+      "name": "396464d2-e8a265d7f24c4c20.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6146,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/396464d2-e8a265d7f24c4c20.js"
+    },
+    {
+      "id": "97a49b18606b50ed",
+      "kind": "script",
+      "name": "987-615596f51cbc5c5f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6147,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/987-615596f51cbc5c5f.js"
+    },
+    {
+      "id": "4230814fdf191457",
+      "kind": "script",
+      "name": "main-app-54afd934f89957cb.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6148,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/main-app-54afd934f89957cb.js"
+    },
+    {
+      "id": "8653e41685171be5",
+      "kind": "script",
+      "name": "17e1cba1-fb802f880c73bc72.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6149,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/17e1cba1-fb802f880c73bc72.js"
+    },
+    {
+      "id": "b1de409570f71c55",
+      "kind": "script",
+      "name": "c15bf2b0-18553074cbb0ca9f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6150,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/c15bf2b0-18553074cbb0ca9f.js"
+    },
+    {
+      "id": "5a6eecb99b968e49",
+      "kind": "script",
+      "name": "6445-7d16c48fde1dfb29.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6151,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6445-7d16c48fde1dfb29.js"
+    },
+    {
+      "id": "30acfbf52c4f1edc",
+      "kind": "script",
+      "name": "6751-f46fa041c4cc491d.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6152,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6751-f46fa041c4cc491d.js"
+    },
+    {
+      "id": "a0e8f878454a4a26",
+      "kind": "script",
+      "name": "256-73048f20a3c58194.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6153,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/256-73048f20a3c58194.js"
+    },
+    {
+      "id": "61c8b78d43c0abe0",
+      "kind": "script",
+      "name": "3696-5c2a1b65e535fcbb.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6154,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/3696-5c2a1b65e535fcbb.js"
+    },
+    {
+      "id": "e897c0057b38b633",
+      "kind": "script",
+      "name": "4635-bfc79dbc1d5a3421.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6155,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4635-bfc79dbc1d5a3421.js"
+    },
+    {
+      "id": "bc8d31a021c3e21f",
+      "kind": "script",
+      "name": "8344-82d581e90e0efcb4.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6156,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8344-82d581e90e0efcb4.js"
+    },
+    {
+      "id": "d72c01e0c5b03690",
+      "kind": "script",
+      "name": "7312-b87de1ac65bba51e.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6157,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/7312-b87de1ac65bba51e.js"
+    },
+    {
+      "id": "3c6d316d2dfa9e18",
+      "kind": "script",
+      "name": "8792-0f6e7268b85f6f1f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6158,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8792-0f6e7268b85f6f1f.js"
+    },
+    {
+      "id": "e38f8aebae2c36a5",
+      "kind": "script",
+      "name": "2915-0377632918c52264.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6159,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/2915-0377632918c52264.js"
+    },
+    {
+      "id": "2848ca06357bbf89",
+      "kind": "script",
+      "name": "359-195f39b9b25d3edf.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6160,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/359-195f39b9b25d3edf.js"
+    },
+    {
+      "id": "f5ae63acdec1423d",
+      "kind": "script",
+      "name": "7281-62b41a4a416f91d6.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6161,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/7281-62b41a4a416f91d6.js"
+    },
+    {
+      "id": "09dc930d54931f33",
+      "kind": "script",
+      "name": "8274-20b95e5ac9be188f.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6162,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8274-20b95e5ac9be188f.js"
+    },
+    {
+      "id": "a7fe9edc8e9f6074",
+      "kind": "script",
+      "name": "8651-71f0d1b1f664b5e1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6163,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8651-71f0d1b1f664b5e1.js"
+    },
+    {
+      "id": "ac301b5dd536a9ef",
+      "kind": "script",
+      "name": "131-88a8ead7b2a6a7e6.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6164,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/131-88a8ead7b2a6a7e6.js"
+    },
+    {
+      "id": "ae34de87e558f95a",
+      "kind": "script",
+      "name": "page-d797b513a0b6e4c3.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6165,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/configurator/select/page-d797b513a0b6e4c3.js"
+    },
+    {
+      "id": "827fec7cdcac6317",
+      "kind": "script",
+      "name": "9303-bd53327a620966f4.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6166,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/9303-bd53327a620966f4.js"
+    },
+    {
+      "id": "93b411c746350705",
+      "kind": "script",
+      "name": "6277-2e764b7ccd391c0b.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6167,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6277-2e764b7ccd391c0b.js"
+    },
+    {
+      "id": "c31c110ae414b796",
+      "kind": "script",
+      "name": "4131-f2596ce2cc78a419.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6168,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4131-f2596ce2cc78a419.js"
+    },
+    {
+      "id": "d1a30e0e780488fd",
+      "kind": "script",
+      "name": "4573-e006a85d6f566347.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6169,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4573-e006a85d6f566347.js"
+    },
+    {
+      "id": "9fbc2f1dc71a2a45",
+      "kind": "script",
+      "name": "layout-b6f1dabdb60bb003.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6170,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/configurator/layout-b6f1dabdb60bb003.js"
+    },
+    {
+      "id": "050ef6c4b4548d48",
+      "kind": "script",
+      "name": "3060-bda38f55fc38231c.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6171,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/3060-bda38f55fc38231c.js"
+    },
+    {
+      "id": "bc6acdf8e56dc714",
+      "kind": "script",
+      "name": "global-error-50aae02926e5d5b5.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6172,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/global-error-50aae02926e5d5b5.js"
+    },
+    {
+      "id": "10ca2e15deddc69c",
+      "kind": "script",
+      "name": "4387-f62aafe10d698383.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6173,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4387-f62aafe10d698383.js"
+    },
+    {
+      "id": "3e37fd8675377200",
+      "kind": "script",
+      "name": "layout-46683009bb1e3c3c.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6174,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/layout-46683009bb1e3c3c.js"
+    },
+    {
+      "id": "ba9e1271f1ef4728",
+      "kind": "script",
+      "name": "error-886d06598141a62c.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6175,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/error-886d06598141a62c.js"
+    },
+    {
+      "id": "b221083af0638f83",
+      "kind": "script",
+      "name": "not-found-bdf805fc45d63fe8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6176,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/not-found-bdf805fc45d63fe8.js"
+    },
+    {
+      "id": "6e63618797042b3f",
+      "kind": "script",
+      "name": "onetrack.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6177,
+          "property": "src"
+        }
+      ],
+      "url": "https://ssl-cdn.static.browser.mi-img.com/mistat-data/onetrack/onetrack.js"
+    },
+    {
+      "id": "4114dd5069402f53",
+      "kind": "script",
+      "name": "globalthis.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6178,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6201,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/script/globalthis.js"
+    },
+    {
+      "id": "12c80feebabdb438",
+      "kind": "stylesheet",
+      "name": "css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6194,
+          "property": "href"
+        }
+      ],
+      "url": "https://cdn-font.hyperos.mi.com/font/css?family=MiSans_VF:VF:Chinese_Simplify,Latin&display=swap"
+    },
+    {
+      "id": "8eb02fb8020e63de",
+      "kind": "other",
+      "name": "envelope",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        },
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://sentry.d.xiaomi.net/api/1408/envelope/?sentry_key=e82999a54af3468a87f23739f6e5e79f&sentry_version=7&sentry_client=sentry.javascript.nextjs%2F7.109.0"
+    },
+    {
+      "id": "0cd26b0f78ec053b",
+      "kind": "font",
+      "name": "cs.2f934f6a30be65c8.0.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.2f934f6a30be65c8.0.woff2"
+    },
+    {
+      "id": "e65a765d0fc9dca0",
+      "kind": "font",
+      "name": "cs.cff9af74f3741baf.1.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.cff9af74f3741baf.1.woff2"
+    },
+    {
+      "id": "ae74cb176874191d",
+      "kind": "font",
+      "name": "cs.0a2bcde63f0ee024.2.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.0a2bcde63f0ee024.2.woff2"
+    },
+    {
+      "id": "7661a9795809bd6f",
+      "kind": "font",
+      "name": "cs.b9dd9990c4e70f2d.3.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.b9dd9990c4e70f2d.3.woff2"
+    },
+    {
+      "id": "94597a0670513a78",
+      "kind": "font",
+      "name": "cs.77ad5100083db1de.4.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.77ad5100083db1de.4.woff2"
+    },
+    {
+      "id": "03a02e9c27d6c4a3",
+      "kind": "font",
+      "name": "cs.420808337216d98a.5.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.420808337216d98a.5.woff2"
+    },
+    {
+      "id": "110eb5bfdc046fa7",
+      "kind": "font",
+      "name": "cs.1dbe1c54c0ad524b.6.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.1dbe1c54c0ad524b.6.woff2"
+    },
+    {
+      "id": "09de578d28b29733",
+      "kind": "font",
+      "name": "cs.ed58b14505caca5a.7.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.ed58b14505caca5a.7.woff2"
+    },
+    {
+      "id": "0adeda64faf9709e",
+      "kind": "font",
+      "name": "cs.0c0c93c6a76b948c.8.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.0c0c93c6a76b948c.8.woff2"
+    },
+    {
+      "id": "1567dc1a72bee500",
+      "kind": "font",
+      "name": "cs.6f2593f221c73e6a.9.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.6f2593f221c73e6a.9.woff2"
+    },
+    {
+      "id": "2c664deb841806f4",
+      "kind": "font",
+      "name": "cs.6ac14e3b704c950f.10.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.6ac14e3b704c950f.10.woff2"
+    },
+    {
+      "id": "81052483d8ec3115",
+      "kind": "font",
+      "name": "cs.af8da91ea228d8ab.11.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.af8da91ea228d8ab.11.woff2"
+    },
+    {
+      "id": "86abbbe28f202d84",
+      "kind": "font",
+      "name": "cs.141da5f0dc12316c.12.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.141da5f0dc12316c.12.woff2"
+    },
+    {
+      "id": "aaa31cbeeb00d680",
+      "kind": "font",
+      "name": "cs.c41a65c89ff7abe2.13.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.c41a65c89ff7abe2.13.woff2"
+    },
+    {
+      "id": "5475738e461f299f",
+      "kind": "font",
+      "name": "cs.64e92d707619091c.14.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.64e92d707619091c.14.woff2"
+    },
+    {
+      "id": "9311ad95e75dd200",
+      "kind": "font",
+      "name": "cs.095a221022c600d3.15.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.095a221022c600d3.15.woff2"
+    },
+    {
+      "id": "967552a85c98eae0",
+      "kind": "font",
+      "name": "cs.e84f7cf1ae448570.17.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.e84f7cf1ae448570.17.woff2"
+    },
+    {
+      "id": "82a2229653b96da0",
+      "kind": "font",
+      "name": "cs.5b904a0fa6f4effd.18.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.5b904a0fa6f4effd.18.woff2"
+    },
+    {
+      "id": "b5ed2696c533d280",
+      "kind": "font",
+      "name": "cs.4c4e12ac93f9ad70.19.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.4c4e12ac93f9ad70.19.woff2"
+    },
+    {
+      "id": "332505430a46a64c",
+      "kind": "font",
+      "name": "cs.7b4b64f28d8f845a.21.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/cs.7b4b64f28d8f845a.21.woff2"
+    },
+    {
+      "id": "c532fd51fc512818",
+      "kind": "font",
+      "name": "lt.a6a7c6e600ff19f0.0.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/lt.a6a7c6e600ff19f0.0.woff2"
+    },
+    {
+      "id": "373e72ff212deda5",
+      "kind": "font",
+      "name": "lt.1c8ba56c4cd96839.5.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://cdn-file.hyperos.mi.com/mi-font-service/misans_vf/VF/lt.1c8ba56c4cd96839.5.woff2"
+    },
+    {
+      "id": "0f2772e48a738e65",
+      "kind": "image",
+      "name": "favicon.ico",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6184,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/website-evcar/favicon.ico"
+    },
+    {
+      "id": "3b3a656e61530f1a",
+      "kind": "image",
+      "name": "login_default.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6365,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/login_default.svg"
+    },
+    {
+      "id": "018ccdded3ca5080",
+      "kind": "image",
+      "name": "fullscreen-expand.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9262,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9262,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9262,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/fullscreen-expand.svg"
+    },
+    {
+      "id": "14ac172a20e8e2e4",
+      "kind": "image",
+      "name": "arrow.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6437,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6437,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6437,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/arrow.png"
+    },
+    {
+      "id": "a3b248027b9b2693",
+      "kind": "image",
+      "name": "arrow.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6440,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/arrow.svg"
+    },
+    {
+      "id": "ac79d697abbf17e2",
+      "kind": "other",
+      "name": "version.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/version.json"
+    },
+    {
+      "id": "a748a5383679316c",
+      "kind": "other",
+      "name": "preview",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://www.xiaomiev.com/configurator/preview?_rsc=7uqda"
+    },
+    {
+      "id": "d96971a3199e89bf",
+      "kind": "other",
+      "name": "userinfo",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://website-api.xiaomiev.com/mtop/user/userinfo?followup=https%3A%2F%2Fwww.xiaomiev.com%2Fconfigurator%2Fselect%3FgoodsId%3D900002858%26itemId%3D500010402%26ssuId%3D600024175%26type%3D3d"
+    },
+    {
+      "id": "6a3fdf2c1bb66402",
+      "kind": "other",
+      "name": "get",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://website-api.xiaomiev.com/mtop/guidemarketing/product/car-configurator/get"
+    },
+    {
+      "id": "47289c7cb878ae01",
+      "kind": "image",
+      "name": "viewCollapse.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9465,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9465,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9465,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/viewCollapse.svg"
+    },
+    {
+      "id": "b7b9b7b487237b45",
+      "kind": "image",
+      "name": "reset.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9463,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9463,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9463,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/reset.svg"
+    },
+    {
+      "id": "d2a01c546ef7407c",
+      "kind": "video",
+      "name": "2d-car-loading.mp4",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "video"
+        },
+        {
+          "kind": "resource",
+          "property": "video"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/2d-car-loading.mp4"
+    },
+    {
+      "id": "fa861b688b0a7947",
+      "kind": "script",
+      "name": "643-78334cb0d740a1f9.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/643-78334cb0d740a1f9.js"
+    },
+    {
+      "id": "02731de2c947294e",
+      "kind": "script",
+      "name": "page-c4e8750997d603a8.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/app/configurator/preview/page-c4e8750997d603a8.js"
+    },
+    {
+      "id": "71526d96c0145700",
+      "kind": "other",
+      "name": "js_a",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        },
+        {
+          "kind": "resource",
+          "property": "beacon"
+        }
+      ],
+      "url": "https://tracking.miui.com/track/v4/js_a"
+    },
+    {
+      "id": "b63aa947e8cbe579",
+      "kind": "other",
+      "name": "bundle",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://website-api.xiaomiev.com/mtop/guidemarketing/tree/bundle"
+    },
+    {
+      "id": "d600894ec363cd23",
+      "kind": "other",
+      "name": "add",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://website-api.xiaomiev.com/mtop/carshop/cart/add"
+    },
+    {
+      "id": "142f5f19fbf7807d",
+      "kind": "script",
+      "name": "4723.bec47be77468f3ca.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/4723.bec47be77468f3ca.js"
+    },
+    {
+      "id": "707ab5b190d1ec1f",
+      "kind": "stylesheet",
+      "name": "d41af17d2a057bf6.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6711,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/d41af17d2a057bf6.css"
+    },
+    {
+      "id": "cb245a11941b9fc1",
+      "kind": "script",
+      "name": "2466.63c1e071a3992103.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/2466.63c1e071a3992103.js"
+    },
+    {
+      "id": "bc9f92f58359d29a",
+      "kind": "stylesheet",
+      "name": "fd97baa7d22756f7.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6732,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/fd97baa7d22756f7.css"
+    },
+    {
+      "id": "61dc1519e6e10741",
+      "kind": "script",
+      "name": "3598.9d14a1c3ad0f3fa1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/3598.9d14a1c3ad0f3fa1.js"
+    },
+    {
+      "id": "b8abbbe94f920cb4",
+      "kind": "stylesheet",
+      "name": "b10423f01556f9cc.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6744,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/b10423f01556f9cc.css"
+    },
+    {
+      "id": "a5cea4cede1377b7",
+      "kind": "script",
+      "name": "5426.4cad32dfc042e3eb.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/5426.4cad32dfc042e3eb.js"
+    },
+    {
+      "id": "03d0df0e16599355",
+      "kind": "script",
+      "name": "6249.cc731a82d9476347.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/6249.cc731a82d9476347.js"
+    },
+    {
+      "id": "1ca9760dd8ae8478",
+      "kind": "stylesheet",
+      "name": "db7b5d6e99a0cf2e.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6777,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/db7b5d6e99a0cf2e.css"
+    },
+    {
+      "id": "e2462c42003201e0",
+      "kind": "script",
+      "name": "276.e4e82ba8801a6d16.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/276.e4e82ba8801a6d16.js"
+    },
+    {
+      "id": "3e4d8b113ff9ddc2",
+      "kind": "stylesheet",
+      "name": "fa248e7dab46c8bf.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6788,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/fa248e7dab46c8bf.css"
+    },
+    {
+      "id": "a408d9f8ea9cb401",
+      "kind": "script",
+      "name": "7453.5e746100074abcb0.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/7453.5e746100074abcb0.js"
+    },
+    {
+      "id": "f1a9d037bb450296",
+      "kind": "script",
+      "name": "8268-fe32ec78dbc341bd.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/8268-fe32ec78dbc341bd.js"
+    },
+    {
+      "id": "17c3019083075913",
+      "kind": "stylesheet",
+      "name": "4a5ab6276f1557ff.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6832,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/4a5ab6276f1557ff.css"
+    },
+    {
+      "id": "e2c2780b63b34626",
+      "kind": "script",
+      "name": "5687.f6844f92b0d69f24.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/5687.f6844f92b0d69f24.js"
+    },
+    {
+      "id": "cfedb570896a1291",
+      "kind": "stylesheet",
+      "name": "2d4a90cf05971cfa.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6853,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/2d4a90cf05971cfa.css"
+    },
+    {
+      "id": "e08174ef7de30b71",
+      "kind": "script",
+      "name": "2948.871e7eca3ff7343a.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/2948.871e7eca3ff7343a.js"
+    },
+    {
+      "id": "bad8c25f65f090aa",
+      "kind": "stylesheet",
+      "name": "1d33065e3b9256c4.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6871,
+          "property": "href"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/css/1d33065e3b9256c4.css"
+    },
+    {
+      "id": "07a674da6e20fdb4",
+      "kind": "script",
+      "name": "9146.88019152aad9fd25.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/assets/_next/static/chunks/9146.88019152aad9fd25.js"
+    },
+    {
+      "id": "47c0bdad958ef317",
+      "kind": "image",
+      "name": "98CAFCE82B641D365DF172063E7FC31A_1779178154535.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6426,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/98CAFCE82B641D365DF172063E7FC31A_1779178154535.png"
+    },
+    {
+      "id": "8d4fafcaabb5d845",
+      "kind": "image",
+      "name": "custom-logo.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6827,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6867,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6924,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/custom-logo.png"
+    },
+    {
+      "id": "bfb9e567ee87a713",
+      "kind": "other",
+      "name": "materialV2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://website-api.xiaomiev.com/mtop/guidemarketing/product/materialV2"
+    },
+    {
+      "id": "68fc178ded211200",
+      "kind": "other",
+      "name": "check3DEntrance",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "xmlhttprequest"
+        }
+      ],
+      "url": "https://website-api.xiaomiev.com/mtop/carlife/point/bookDrive/check3DEntrance"
+    },
+    {
+      "id": "512a529a67635124",
+      "kind": "image",
+      "name": "openDoor.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9464,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9464,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9464,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/openDoor.svg"
+    },
+    {
+      "id": "352a1e9e55037b28",
+      "kind": "image",
+      "name": "loading.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9268,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9268,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9268,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9276,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9276,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9276,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9284,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9284,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9284,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9292,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9292,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9292,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9300,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9300,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9300,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9308,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9308,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9308,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6988,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7006,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7028,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7048,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7077,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7094,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7113,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7130,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7149,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7162,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8389,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8402,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7250,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8414,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7286,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8419,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7324,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8424,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7360,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7415,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7421,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7451,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7468,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7487,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7502,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7521,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7532,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7550,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7591,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7618,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7651,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7676,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7700,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7722,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7738,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7756,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7772,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7798,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7813,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7830,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7845,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8454,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8468,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7866,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7882,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7900,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7916,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7936,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7957,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7986,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8003,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8022,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8058,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8090,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8121,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8147,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8173,
+          "property": "src"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/loading.svg"
+    },
+    {
+      "id": "bfccb0b6c826d537",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728295.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6992,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728295.png"
+    },
+    {
+      "id": "1b6b6e7a5f603f0d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660756.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6993,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660756.png"
+    },
+    {
+      "id": "b96b66614d185f99",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758176784436.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 6999,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7018,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7040,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7060,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7259,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7295,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7333,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7461,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7478,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7496,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7583,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7609,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7731,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7747,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7765,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7781,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7875,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7891,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7909,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7949,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7970,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758176784436.png"
+    },
+    {
+      "id": "683a8e042bfd1477",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660814.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7011,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660814.png"
+    },
+    {
+      "id": "fc7d07f515da9252",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728306.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7010,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728306.png"
+    },
+    {
+      "id": "13ad185ae066437b",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720732632.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7032,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720732632.png"
+    },
+    {
+      "id": "257adc3677c06429",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660753.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7033,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660753.png"
+    },
+    {
+      "id": "8fd59cf01fc669ea",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660731.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7053,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660731.png"
+    },
+    {
+      "id": "0cbc16232a668c63",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728300.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7052,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728300.png"
+    },
+    {
+      "id": "533bbe62d402be8a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728358.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7081,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728358.png"
+    },
+    {
+      "id": "a069d2e528c40704",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660804.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7082,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660804.png"
+    },
+    {
+      "id": "73e88668b7079873",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728286.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7098,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728286.png"
+    },
+    {
+      "id": "f16b4ce85e2ed943",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660751.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7099,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660751.png"
+    },
+    {
+      "id": "f56ee63d0a1fb8d7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660771.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7118,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660771.png"
+    },
+    {
+      "id": "155d6c959084cfc7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728304.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7134,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728304.png"
+    },
+    {
+      "id": "815337a881b87fd3",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660772.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7135,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660772.png"
+    },
+    {
+      "id": "553f1fc21c3ef3c7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728252.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7153,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728252.png"
+    },
+    {
+      "id": "d7399049bd8c1a24",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728319.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7117,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728319.png"
+    },
+    {
+      "id": "ff81f974910fdecc",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720660776.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7167,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720660776.png"
+    },
+    {
+      "id": "9c757341de26ba80",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720728316.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7166,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720728316.png"
+    },
+    {
+      "id": "512de31e7d3e99e8",
+      "kind": "image",
+      "name": "D5277DDD18A2DA244F6BC291D79FEF3D_1758804629085.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/D5277DDD18A2DA244F6BC291D79FEF3D_1758804629085.jpg"
+    },
+    {
+      "id": "b084b8caed65b0cc",
+      "kind": "image",
+      "name": "EABAB258D1B92816CBD6C489F44A36E4_1758804629061.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/EABAB258D1B92816CBD6C489F44A36E4_1758804629061.jpg"
+    },
+    {
+      "id": "80106800c961e603",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720694679.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7154,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720694679.png"
+    },
+    {
+      "id": "69d29e17848ba1c6",
+      "kind": "image",
+      "name": "82AA34E1D6D1EA4D57E92EC1E1C626DE_1758804629074.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/82AA34E1D6D1EA4D57E92EC1E1C626DE_1758804629074.jpg"
+    },
+    {
+      "id": "80fae1d4bbf8cdbc",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721140644.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721140644.jpg"
+    },
+    {
+      "id": "2b7f5722e270d586",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721179054.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721179054.jpg"
+    },
+    {
+      "id": "4216412d54774fd0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758092205644.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092205644.jpg"
+    },
+    {
+      "id": "64354d74f6270537",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721151937.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721151937.jpg"
+    },
+    {
+      "id": "56684289b370dee0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758092203933.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8413,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8418,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8423,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092203933.jpg"
+    },
+    {
+      "id": "5d747a8a6844a7dd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090882086.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090882086.jpg"
+    },
+    {
+      "id": "1183ff953b03e8bd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090888163.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7359,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090888163.jpg"
+    },
+    {
+      "id": "05a62a22a24bd1a8",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090867180.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7414,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090867180.jpg"
+    },
+    {
+      "id": "0ff0217c8851ba6a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090160459.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7450,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090160459.jpg"
+    },
+    {
+      "id": "682be757b85950ac",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090164629.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7486,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090164629.jpg"
+    },
+    {
+      "id": "34616fb5ddff6fe7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090162310.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7467,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090162310.jpg"
+    },
+    {
+      "id": "785b7636759b33a5",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758092207649.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7420,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758092207649.jpg"
+    },
+    {
+      "id": "abdc58f914d44cf4",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090166912.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7501,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090166912.jpg"
+    },
+    {
+      "id": "aba99a7f44a3919d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721047159.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721047159.jpg"
+    },
+    {
+      "id": "2d74d28b1c7e3423",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721105734.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721105734.jpg"
+    },
+    {
+      "id": "a76aaf0cd11db71f",
+      "kind": "image",
+      "name": "9EECBC54381E78FE2CA473698ACA050D_1758767393699.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/9EECBC54381E78FE2CA473698ACA050D_1758767393699.jpg"
+    },
+    {
+      "id": "ea243859526a01b9",
+      "kind": "image",
+      "name": "video.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7624,
+          "property": "src"
+        }
+      ],
+      "url": "https://activity-outer-assets.cnbj1.mi-fds.com/activity-outer-assets/video.png"
+    },
+    {
+      "id": "60d59b7b4f32ba2c",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721014891.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721014891.png"
+    },
+    {
+      "id": "a61dd7e166c1e2fd",
+      "kind": "image",
+      "name": "217D0FE707B524C7D08026BE56750807_1758870919311.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/217D0FE707B524C7D08026BE56750807_1758870919311.jpg"
+    },
+    {
+      "id": "8307b0de7810b011",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716015824.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716015824.png"
+    },
+    {
+      "id": "506d8f075eadc63a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716000723.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716000723.png"
+    },
+    {
+      "id": "d36a1981368b27a0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716009578.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716009578.png"
+    },
+    {
+      "id": "2fdfa46eb3ea1dfb",
+      "kind": "image",
+      "name": "B5644F39EF86CCDD0D04BAE8F95FDB63_1758870964956.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/B5644F39EF86CCDD0D04BAE8F95FDB63_1758870964956.jpg"
+    },
+    {
+      "id": "3ffa145c3ce8cba0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716045974.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716045974.png"
+    },
+    {
+      "id": "dd50527bbc135d3e",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716038854.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716038854.png"
+    },
+    {
+      "id": "4dee27733210caae",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716021532.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716021532.png"
+    },
+    {
+      "id": "ce9d2ef588fb77a6",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716056126.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716056126.png"
+    },
+    {
+      "id": "4aad9e3a98dc28b2",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758716060834.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758716060834.png"
+    },
+    {
+      "id": "99bc94a314e51327",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090123113.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7864,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090123113.png"
+    },
+    {
+      "id": "c1b2a279da86686a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090125177.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7880,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090125177.png"
+    },
+    {
+      "id": "461cfefbd2dfb58a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090126928.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7898,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090126928.png"
+    },
+    {
+      "id": "a754ee14b760cf12",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090128307.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7914,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090128307.png"
+    },
+    {
+      "id": "295eaeea23033b18",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720948522.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7940,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720948522.png"
+    },
+    {
+      "id": "c4e970214e0e16ea",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720927770.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7941,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720927770.png"
+    },
+    {
+      "id": "fab00425db38437a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720952560.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7961,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720952560.png"
+    },
+    {
+      "id": "93bb68f83d17f8dd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720932251.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7962,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720932251.png"
+    },
+    {
+      "id": "a3447bdc5db96da0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090648749.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7990,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090648749.png"
+    },
+    {
+      "id": "30e69338d13b8b04",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720935728.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7991,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720935728.png"
+    },
+    {
+      "id": "1ee6b0e26baa5157",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090651588.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8007,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090651588.png"
+    },
+    {
+      "id": "c752cf58f69d0bad",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720939360.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8008,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720939360.png"
+    },
+    {
+      "id": "cb1c78e6829dd170",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090653885.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8026,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090653885.png"
+    },
+    {
+      "id": "ec4a4039bbe4e2e0",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720942398.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8027,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720942398.png"
+    },
+    {
+      "id": "0418295a728b607d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720842821.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720842821.jpg"
+    },
+    {
+      "id": "a930ecec0e7aeb0d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720771902.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720771902.jpg"
+    },
+    {
+      "id": "d7f68509ea2dbaf1",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720882131.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720882131.jpg"
+    },
+    {
+      "id": "c8def760e3229aef",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720801839.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720801839.jpg"
+    },
+    {
+      "id": "679ad07e429314ab",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758720867505.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758720867505.png"
+    },
+    {
+      "id": "0d7bb88619119aa4",
+      "kind": "other",
+      "name": "ConfigTable.json",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/bundle_su7_u/PC/26_0_00/ConfigTable.json"
+    },
+    {
+      "id": "ff6f7175522fe684",
+      "kind": "other",
+      "name": "wasm_crypto_bg.wasm",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/plugin3D/decrypt/wasm_crypto_bg.wasm"
+    },
+    {
+      "id": "d00b2a63be07c1ab",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721129945.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7249,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721129945.jpg"
+    },
+    {
+      "id": "f4953626b4079b56",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758721146416.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7285,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758721146416.jpg"
+    },
+    {
+      "id": "1b8952374d072ecd",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758090880403.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7323,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758090880403.jpg"
+    },
+    {
+      "id": "25ba67c09409a5ae",
+      "kind": "image",
+      "name": "A905B650158D9D7A7BA43610F32D53E8_1774619872122.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7549,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/A905B650158D9D7A7BA43610F32D53E8_1774619872122.jpg"
+    },
+    {
+      "id": "473d5e87efd51894",
+      "kind": "image",
+      "name": "8250A6386ADD6EA578279D54AE138F29_1774605218417.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7520,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/8250A6386ADD6EA578279D54AE138F29_1774605218417.jpg"
+    },
+    {
+      "id": "baf6a2cac1a8cd90",
+      "kind": "image",
+      "name": "CB4FD28435E3DBD8F5CCD7C4F4ED4514_1779788793199.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7531,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/CB4FD28435E3DBD8F5CCD7C4F4ED4514_1779788793199.jpg"
+    },
+    {
+      "id": "332c62b97dcb3a2a",
+      "kind": "image",
+      "name": "658C64FFA0B8BF1AB794AFC594C447A2_1760529875174.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7680,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/658C64FFA0B8BF1AB794AFC594C447A2_1760529875174.jpg"
+    },
+    {
+      "id": "f5a48542a4f422e6",
+      "kind": "image",
+      "name": "F7C56E7F820BF9A2EE33D0D9901C928D_1760526355330.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7595,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/F7C56E7F820BF9A2EE33D0D9901C928D_1760526355330.jpg"
+    },
+    {
+      "id": "e9d71d1e074dd601",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758719420343.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7635,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719420343.png"
+    },
+    {
+      "id": "77860591bdf4b607",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758719134881.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7622,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719134881.jpg"
+    },
+    {
+      "id": "c9253cbc4d1a4d1b",
+      "kind": "image",
+      "name": "9613DAC25319C7A3E0B9E3941EC01F24_1760529955514.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7704,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/9613DAC25319C7A3E0B9E3941EC01F24_1760529955514.jpg"
+    },
+    {
+      "id": "e29fb514e099cef7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758718961395.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7754,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718961395.png"
+    },
+    {
+      "id": "685d21e4062e76df",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088730622.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7796,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088730622.png"
+    },
+    {
+      "id": "fe18d2481326d70d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088793950.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7828,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088793950.png"
+    },
+    {
+      "id": "d9fcedf32533636e",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758718997294.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7770,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718997294.png"
+    },
+    {
+      "id": "4b0cf52d316e6daf",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758728729122.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7736,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758728729122.png"
+    },
+    {
+      "id": "d511517bfb004f88",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088751589.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7811,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088751589.png"
+    },
+    {
+      "id": "e4d2eba5b1950e9e",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758718882020.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7720,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758718882020.png"
+    },
+    {
+      "id": "2d1156762518b82b",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758088823391.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 7843,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758088823391.png"
+    },
+    {
+      "id": "47381229a9b1706d",
+      "kind": "image",
+      "name": "B4757F9223FF69C163430C49487D5B77_1760530133355.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8125,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/B4757F9223FF69C163430C49487D5B77_1760530133355.jpg"
+    },
+    {
+      "id": "6754866c9a4114d2",
+      "kind": "image",
+      "name": "783CFAE3DED7FE67129E8D7DD7BF2B2D_1760530091141.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8062,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/783CFAE3DED7FE67129E8D7DD7BF2B2D_1760530091141.jpg"
+    },
+    {
+      "id": "e2619f235d05b75b",
+      "kind": "image",
+      "name": "71FC23FAD98586728406AC6DAF607584_1760530181165.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8151,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/71FC23FAD98586728406AC6DAF607584_1760530181165.jpg"
+    },
+    {
+      "id": "8f3f6ceac6a2830f",
+      "kind": "image",
+      "name": "C16D4A69221C6E959C1E103D45626E2A_1758804849861.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8388,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/C16D4A69221C6E959C1E103D45626E2A_1758804849861.jpg"
+    },
+    {
+      "id": "bc56b17d7be9f320",
+      "kind": "image",
+      "name": "4F750857AE85610128A5BA2B1B60B862_1760530222861.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8177,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/4F750857AE85610128A5BA2B1B60B862_1760530222861.jpg"
+    },
+    {
+      "id": "59ede2893ea39eef",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758719683065.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8074,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758719683065.png"
+    },
+    {
+      "id": "1d3bb9de7565180f",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758094512769.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8456,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758094512769.png"
+    },
+    {
+      "id": "3ad305fd983678b7",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758094505644.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8470,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758094505644.png"
+    },
+    {
+      "id": "52f00c050ef04eb1",
+      "kind": "image",
+      "name": "041B369C15C5048475DAA4FE5F4C6742_1758804912490.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 8401,
+          "property": "src"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/041B369C15C5048475DAA4FE5F4C6742_1758804912490.jpg"
+    },
+    {
+      "id": "0261773c30ab8017",
+      "kind": "script",
+      "name": "draco_wasm_wrapper.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/plugin3D/loaders/libs/draco/draco_wasm_wrapper.js"
+    },
+    {
+      "id": "84467b94601d0795",
+      "kind": "other",
+      "name": "draco_decoder.wasm",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/plugin3D/loaders/libs/draco/draco_decoder.wasm"
+    },
+    {
+      "id": "49db354e6b6bc6ea",
+      "kind": "image",
+      "name": "2d-thumb-loading.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9267,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9267,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9267,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9275,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9275,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9275,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9283,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9283,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9283,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9291,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9291,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9291,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9299,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9299,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9299,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9307,
+          "property": "src"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9307,
+          "property": "srcset"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 9307,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://s1.xiaomiev.com/activity-outer-assets/0328/images/configurator/icons/2d-thumb-loading.svg"
+    },
+    {
+      "id": "9070c9ee8cffc39a",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758280953114.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758280953114.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "0c0a76635bc82c56",
+      "kind": "image",
+      "name": "11CF70EE6419511B2C936513350F9308_1758717646317.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/11CF70EE6419511B2C936513350F9308_1758717646317.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "4fc4fec53f6a48c7",
+      "kind": "image",
+      "name": "E1CE6113145D78C0D12BA6EB3DCE1BBA_1758098949012.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/E1CE6113145D78C0D12BA6EB3DCE1BBA_1758098949012.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "01218a8df6919b4d",
+      "kind": "image",
+      "name": "image_4ef6baf57e204fc29c50381f5eb9b515_1728635614167.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/image_4ef6baf57e204fc29c50381f5eb9b515_1728635614167.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "98e7bcf22f76de5f",
+      "kind": "image",
+      "name": "4D7737A1FFE0AB4982403AAA77FB3762_1758098912935.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/4D7737A1FFE0AB4982403AAA77FB3762_1758098912935.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "69c33557ed7cc8f5",
+      "kind": "image",
+      "name": "BF8C2660D1C13D04320C4C0799596163_1757486603916.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/BF8C2660D1C13D04320C4C0799596163_1757486603916.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "986912f1b0362345",
+      "kind": "image",
+      "name": "724F0F2EBA9474DD16E375681765A690_1758098913359.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/724F0F2EBA9474DD16E375681765A690_1758098913359.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "d228228dd5675747",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758280972350.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758280972350.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "f6d347c323b391c3",
+      "kind": "image",
+      "name": "95565A001CDEF71542682E7779A4E50D_1758717646887.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/95565A001CDEF71542682E7779A4E50D_1758717646887.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "850707d5ade72cb0",
+      "kind": "image",
+      "name": "64ECF59B87FE98C49A9F24B8A9FD270B_1758098949534.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/64ECF59B87FE98C49A9F24B8A9FD270B_1758098949534.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "74feb0ff28ebdccc",
+      "kind": "image",
+      "name": "550A79B4B36AECBC5F4F38CB25AC7254_1757490404963.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/550A79B4B36AECBC5F4F38CB25AC7254_1757490404963.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "56561e8c2a12be54",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281011058.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281011058.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "2d6913a5008fc4df",
+      "kind": "image",
+      "name": "5F06483FA765C00377BAF5A766B4F425_1758098856957.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/5F06483FA765C00377BAF5A766B4F425_1758098856957.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "f1ac219fe7686c4c",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281111796.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281111796.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "e1f91d8769530118",
+      "kind": "image",
+      "name": "E7EEFBECFB33E65882D4D927ED30C8FC_1758717647536.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/E7EEFBECFB33E65882D4D927ED30C8FC_1758717647536.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "c3ee74780b492a45",
+      "kind": "image",
+      "name": "637CDE644F22AE8BE6D19B4559911255_1758717648313.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/637CDE644F22AE8BE6D19B4559911255_1758717648313.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "1b49c5d45f471dfb",
+      "kind": "image",
+      "name": "6CE73821FCF5FA23D53589A47E70B3E0_1758098910101.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/6CE73821FCF5FA23D53589A47E70B3E0_1758098910101.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "24c7a302a5ada27e",
+      "kind": "image",
+      "name": "01F1117F2EE9F830780054B37850D2AF_1758098950103.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/01F1117F2EE9F830780054B37850D2AF_1758098950103.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "49ffd912abef233d",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281133016.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281133016.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "adf2d779a47318d9",
+      "kind": "image",
+      "name": "2059E896A1A9EDE9261998BCC5EBFCB3_1758717649021.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/2059E896A1A9EDE9261998BCC5EBFCB3_1758717649021.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "b0a4c0722f4f790e",
+      "kind": "image",
+      "name": "F8F21FD2964FD13A83B966937FE3C68C_1758717649750.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/F8F21FD2964FD13A83B966937FE3C68C_1758717649750.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "95bd3166d05e3cc7",
+      "kind": "image",
+      "name": "67EFCD906A6CF760568136CFA43A10D6_1758098857972.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/67EFCD906A6CF760568136CFA43A10D6_1758098857972.png?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    },
+    {
+      "id": "3ce34c355956d6d9",
+      "kind": "image",
+      "name": "78805A221A988E79EF3F42D7C5BFD418_1758281163398.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://img.v.mifile.cn/nr-upload-car/78805A221A988E79EF3F42D7C5BFD418_1758281163398.jpg?x-fds-process=image/resize,w_600,h_337,m_lfit,f_webp"
+    }
+  ],
+  "id": "2059b684-16b3-4147-a9dd-4bd22e0eeb61",
+  "inlineSvgs": [
+    {
+      "id": "945933e866e1f80a",
+      "markup": "<svg class=\"cursor-pointer\" width=\"102\" height=\"31\" viewBox=\"0 0 102 31\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.8875 1.36768C19.4922 1.36768 23.259 1.65793 25.8804 4.2612C28.5101 6.86717 28.7749 10.6378 28.7749 15.2295C28.7749 19.8213 28.5101 23.5793 25.8886 26.1898C23.2671 28.8002 19.4967 29.0644 14.8875 29.0644C10.2782 29.0644 6.50508 28.7993 3.88542 26.1898C1.26576 23.5802 1 19.8222 1 15.2295C1 10.6369 1.26486 6.88069 3.88452 4.27111C6.50418 1.66153 10.2827 1.36768 14.8875 1.36768Z\" fill=\"#FF5B29\"></path><path d=\"M18.4514 20.4689C18.4841 20.4372 18.5028 20.3938 18.5035 20.3483L18.4981 15.2148C18.4981 13.5165 18.415 11.7416 17.5381 10.8664C16.6613 9.99111 14.8823 9.91358 13.182 9.91358H6.67349C6.65081 9.91335 6.62831 9.91757 6.60728 9.926C6.58624 9.93443 6.56707 9.94691 6.55087 9.96273C6.53467 9.97855 6.52175 9.9974 6.51286 10.0182C6.50396 10.039 6.49926 10.0613 6.49902 10.084V20.3483C6.49974 20.3938 6.51849 20.4372 6.55118 20.4689C6.58388 20.5007 6.62785 20.5182 6.67349 20.5178H8.93337C8.97918 20.5182 9.02335 20.5007 9.05633 20.469C9.08931 20.4373 9.10846 20.394 9.10965 20.3483V12.2924C9.11036 12.2468 9.12908 12.2033 9.16175 12.1714C9.19442 12.1395 9.23839 12.1218 9.28411 12.122H13.3727C14.1745 12.1419 14.9474 12.2374 15.3614 12.6512C15.8432 13.1316 15.8983 14.088 15.8983 15.0192V20.3483C15.8993 20.3939 15.9182 20.4372 15.9511 20.469C15.9839 20.5007 16.028 20.5182 16.0737 20.5178H18.3291C18.3747 20.5182 18.4187 20.5007 18.4514 20.4689Z\" fill=\"white\" fill-opacity=\"0.9\"></path><path d=\"M13.8143 20.4688C13.8468 20.4371 13.8655 20.3938 13.8662 20.3485V14.1684C13.8657 14.1229 13.8472 14.0794 13.8147 14.0475C13.7821 14.0156 13.7383 13.9978 13.6926 13.998H11.3243C11.3015 13.9977 11.2788 14.0018 11.2576 14.0102C11.2364 14.0185 11.2171 14.031 11.2007 14.0468C11.1844 14.0626 11.1713 14.0815 11.1622 14.1024C11.1532 14.1232 11.1484 14.1457 11.148 14.1684V20.3485C11.1489 20.3942 11.168 20.4377 11.2011 20.4695C11.2341 20.5012 11.2784 20.5187 11.3243 20.5179H13.6926C13.7381 20.5182 13.7819 20.5005 13.8143 20.4688Z\" fill=\"white\" fill-opacity=\"0.9\"></path><path d=\"M23.148 20.3483C23.147 20.3939 23.1281 20.4372 23.0952 20.469C23.0624 20.5007 23.0183 20.5182 22.9726 20.5178H20.7172C20.6716 20.5182 20.6276 20.5007 20.5949 20.4689C20.5622 20.4372 20.5435 20.3938 20.5428 20.3483V10.084C20.543 10.0613 20.5477 10.039 20.5566 10.0182C20.5655 9.9974 20.5784 9.97855 20.5946 9.96273C20.6108 9.94691 20.63 9.93443 20.651 9.926C20.6721 9.91757 20.6946 9.91335 20.7172 9.91358H22.9726C23.0184 9.91334 23.0625 9.93107 23.0953 9.96294C23.1281 9.99482 23.147 10.0383 23.148 10.084V20.3483Z\" fill=\"white\" fill-opacity=\"0.9\"></path></svg>",
+      "name": "svg-1"
+    },
+    {
+      "id": "6b8ec349db813507",
+      "markup": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"2\" y=\"3.5\" width=\"16\" height=\"1\" fill=\"#FFFFFF\" fill-opacity=\"0.9\" transform=\"rotate(0 0 0)\"></rect><rect x=\"2\" y=\"9.5\" width=\"16\" height=\"1\" fill=\"#FFFFFF\" fill-opacity=\"0.9\" transform=\"rotate(0 0 0)\"></rect><rect x=\"2\" y=\"15.5\" width=\"16\" height=\"1\" fill=\"#FFFFFF\" fill-opacity=\"0.9\" style=\"fill-opacity: 0.9;\"></rect></svg>",
+      "name": "svg-2"
+    },
+    {
+      "id": "337b7795fdec9120",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-3"
+    },
+    {
+      "id": "6f3cc9a0b504c47a",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-4"
+    },
+    {
+      "id": "69c7aaafca0696c7",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-5"
+    },
+    {
+      "id": "a3628ccfb6183ce3",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-6"
+    },
+    {
+      "id": "9ce0e416174af863",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-7"
+    },
+    {
+      "id": "091288e303384519",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-8"
+    },
+    {
+      "id": "c6f82c66d9245677",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.75 7H12.25M7 12.25V1.75\" stroke=\"#12151A\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-9"
+    },
+    {
+      "id": "9a7253460ec9a1bc",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-10"
+    },
+    {
+      "id": "8ef6a0250f84bb2a",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.75 7H12.25M7 12.25V1.75\" stroke=\"#12151A\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-11"
+    },
+    {
+      "id": "868a0da301f5bbd9",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-12"
+    },
+    {
+      "id": "5913be33d26e0b9b",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.75 7H12.25M7 12.25V1.75\" stroke=\"#12151A\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-13"
+    },
+    {
+      "id": "b9f3be3c57903b0e",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-14"
+    },
+    {
+      "id": "3bb7d0481bbbad49",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 6.53554L5.53553 10.0711L12.6066 3\" stroke=\"white\" stroke-opacity=\"0.9\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-15"
+    },
+    {
+      "id": "849a13686c910183",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-16"
+    },
+    {
+      "id": "bb7722d9b72aca57",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 6.53554L5.53553 10.0711L12.6066 3\" stroke=\"white\" stroke-opacity=\"0.9\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-17"
+    },
+    {
+      "id": "e20118cc79ab95ce",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"w-full h-full rotate-90\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M14.37 10.5 8.006 4.136l-6.364 6.365\"></path></svg>",
+      "name": "svg-18"
+    },
+    {
+      "id": "d0171367a6b44427",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-19"
+    },
+    {
+      "id": "1c19e642ff1c718e",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"xxl:w-[28px] w-xl-28 xxl:h-[28px] h-xl-28\"><rect width=\"16\" height=\"16\" fill=\"#4D4D4D\" fill-opacity=\"0.5\" rx=\"8\" style=\"mix-blend-mode: color-dodge;\"></rect><rect width=\"16\" height=\"16\" fill=\"#D9D9D9\" fill-opacity=\"0.15\" rx=\"8\"></rect><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-opacity=\"0.9\" stroke-width=\"1.5\" d=\"m5.007 8.243 2.122 2.121 4.242-4.243\"></path></svg>",
+      "name": "svg-20"
+    },
+    {
+      "id": "ccb53c4d8dc5c2e9",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 28 28\" class=\"xxl:w-[28px] w-xl-28 xxl:h-[28px] h-xl-28\"><rect width=\"26.25\" height=\"26.25\" x=\"0.875\" y=\"0.875\" stroke=\"#fff\" stroke-opacity=\"0.5\" stroke-width=\"1.75\" rx=\"13.125\"></rect></svg>",
+      "name": "svg-21"
+    },
+    {
+      "id": "f827ee9da0886c20",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-22"
+    },
+    {
+      "id": "a7ea3a9dc249d060",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-23"
+    },
+    {
+      "id": "d7753a316d8049ad",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-24"
+    },
+    {
+      "id": "4c9016c8a663c256",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.75 7H12.25M7 12.25V1.75\" stroke=\"#12151A\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-25"
+    },
+    {
+      "id": "a4542b4ed782399f",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-26"
+    },
+    {
+      "id": "ccbdeddcb74441b3",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1.75 7H12.25M7 12.25V1.75\" stroke=\"#12151A\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-27"
+    },
+    {
+      "id": "d111c6c3e0e99674",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-28"
+    },
+    {
+      "id": "acdb8176a03bb111",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 6.53554L5.53553 10.0711L12.6066 3\" stroke=\"white\" stroke-opacity=\"0.9\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-29"
+    },
+    {
+      "id": "e37fe0c3c452c32d",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-30"
+    },
+    {
+      "id": "3b2a732b696fab2e",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 6.53554L5.53553 10.0711L12.6066 3\" stroke=\"white\" stroke-opacity=\"0.9\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-31"
+    },
+    {
+      "id": "67f4b220a7692ecd",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"styles_configInfoIcon__Qfx7C\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6.5v5M14.5 8a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0\"></path><circle cx=\"8\" cy=\"4.231\" r=\"0.538\" fill=\"#fff\"></circle></svg>",
+      "name": "svg-32"
+    },
+    {
+      "id": "e391d6c735faf565",
+      "markup": "<svg class=\"UltraCheckedButton_buttonPrefixIcon__sPLNb\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2 6.53554L5.53553 10.0711L12.6066 3\" stroke=\"white\" stroke-opacity=\"0.9\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-33"
+    },
+    {
+      "id": "fa72e8b0e9e27d8a",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\" class=\"rotate-90 xxl:ml-[4px] ml-xl-4 xxl:w-[20px] w-xl-20 xxl:h-[20px] h-xl-20\"><path stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M14.37 10.5 8.006 4.136l-6.364 6.365\"></path></svg>",
+      "name": "svg-34"
+    }
+  ],
+  "pageUrl": "https://www.xiaomiev.com/configurator/select?goodsId=900002858&itemId=500010402&ssuId=600024175&type=3d",
+  "summary": {
+    "byKind": {
+      "font": 22,
+      "image": 134,
+      "other": 13,
+      "script": 49,
+      "stylesheet": 15,
+      "video": 1
+    },
+    "inlineSvgCount": 34,
+    "totalCount": 234
+  }
+}

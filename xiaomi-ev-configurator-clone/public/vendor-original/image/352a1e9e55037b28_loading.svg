@@ -1,0 +1,30 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>.loading4_125 {
+	animation: 1s linear 0s 1 normal forwards running loading4_125;
+		transform: translateX(0px) translateY(0px) rotate(0deg);
+}
+@keyframes loading4_125 {
+	0% {
+		transform: translateX(0px) translateY(0px) rotate(0deg);
+	}
+	100% {
+		transform: translateX(0px) translateY(0px) rotate(-720deg);
+	}
+}
+</style>
+<g clip-path="url(#clip_0_280)" width="16" height="16" data-name="loading-3">
+	<g class="loading4_125" width="16" height="16" data-name="loading-4">
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z" fill="white" fill-opacity="0.16" data-name="Ellipse 98 (Stroke)"/>
+		<g width="16" height="16" data-name="loading-3">
+			<path d="M6.98254 7.49967C7.00198 7.77513 7.22398 7.99974 7.50012 7.99974C7.77627 7.99974 8.00175 7.77527 7.98475 7.49965C7.73681 3.47972 4.52015 0.263061 0.500214 0.015119C0.224596 -0.00188056 0.000124931 0.2236 0.000124931 0.499743C0.000124931 0.775885 0.224738 0.997886 0.500195 1.01733C3.96763 1.26208 6.73779 4.03224 6.98254 7.49967Z" fill="url(#paint_linear___253)" data-name="Subtract" transform="translate(8 0.01)"/>
+		</g>
+	</g>
+</g>
+<defs><clipPath id="clip_0_280"><rect width="16" height="16"/></clipPath>
+<linearGradient id="paint_linear___253" x1="0.000124959" y1="0.513312" x2="7.48655" y2="7.99974" gradientUnits="userSpaceOnUse">
+<stop offset="0.08" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+
+</defs>
+</svg>
